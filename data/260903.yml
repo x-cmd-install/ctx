@@ -1,0 +1,68 @@
+about:
+  description: Instant recall for coding agents. Search the history already on your machine. Git blame, but for agent sessions.
+  license: Apache-2.0
+  homepage: https://ctx.rs
+  head: f91fa2d
+  archived: false
+  latestVersion: v1.3.1
+  collectedAt: 2026-09-03T05:14:11Z
+timeline:
+  created: 2026-02-23
+  lastCommit: 2026-09-03
+  lastRelease: 2026-09-03
+popularity:
+  star: 1059
+  watcher: 5
+  fork: 67
+  release: 35
+  contributor: 20
+  pullRequest: 71
+  issue: 132
+language:
+  Rust: 23897245
+  Python: 1579819
+  Shell: 929987
+  Starlark: 326701
+  Java: 233892
+  C#: 211328
+  PowerShell: 203662
+  Swift: 186326
+  Go: 126877
+  JavaScript: 91776
+  C: 17773
+  TypeScript: 7083
+  RenderScript: 2
+totalLine: 27812471
+recent:
+  last30d:
+    since: 2026-08-04
+    release: 12
+    mergedPR: 489
+    openPR: 1
+    closedIssue: 80
+    openIssue: 2
+    commit: 1133
+  last90d:
+    since: 2026-06-05
+    release: 35
+    mergedPR: 689
+    openPR: 1
+    closedIssue: 127
+    openIssue: 2
+    commit: 2810
+  last180d:
+    since: 2026-03-07
+    release: 35
+    mergedPR: 689
+    openPR: 1
+    closedIssue: 130
+    openIssue: 2
+    commit: 2810
+  last360d:
+    since: 2025-09-08
+    release: 35
+    mergedPR: 689
+    openPR: 1
+    closedIssue: 130
+    openIssue: 2
+    commit: 2810
