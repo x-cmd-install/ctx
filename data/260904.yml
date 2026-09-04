@@ -4,10 +4,10 @@ about:
     Instant recall for coding agents. Search the history already on your machine. Git blame, but for agent sessions.
   license: Apache-2.0
   homepage: https://ctx.rs
-  head: e5e02a9
+  head: 1ad9804
   archived: false
   latestVersion: v1.3.1
-  collectedAt: 2026-09-04T20:09:49Z
+  collectedAt: 2026-09-04T20:32:34Z
 timeline:
   created: 2026-02-23
   lastCommit: 2026-09-04
@@ -18,10 +18,10 @@ popularity:
   fork: 68
   release: 35
   contributor: 20
-  pullRequest: 776
+  pullRequest: 777
   issue: 134
 language:
-  Rust: 23864920
+  Rust: 23894075
   Python: 1586440
   Shell: 944999
   Starlark: 326522
@@ -34,72 +34,72 @@ language:
   C: 17773
   TypeScript: 7083
   RenderScript: 2
-totalBytes: 27817646
+totalBytes: 27846801
 recent:
   last30d:
     since: 2026-08-05
     release: 12
-    mergedPR: 498
+    mergedPR: 499
     openPR: 1
     closedIssue: 80
     openIssue: 2
-    commit: 1148
+    commit: 0
   last60d:
     since: 2026-07-06
     release: 18
-    mergedPR: 653
+    mergedPR: 654
     openPR: 1
     closedIssue: 120
     openIssue: 2
-    commit: 2654
+    commit: 0
   last90d:
     since: 2026-06-06
     release: 35
-    mergedPR: 704
+    mergedPR: 705
     openPR: 2
     closedIssue: 129
     openIssue: 2
-    commit: 2825
+    commit: 0
   last180d:
     since: 2026-03-08
     release: 35
-    mergedPR: 704
+    mergedPR: 705
     openPR: 2
     closedIssue: 132
     openIssue: 2
-    commit: 2825
+    commit: 0
   last360d:
     since: 2025-09-09
     release: 35
-    mergedPR: 704
+    mergedPR: 705
     openPR: 2
     closedIssue: 132
     openIssue: 2
-    commit: 2825
+    commit: 0
   last720d:
     since: 2024-09-14
     release: 35
-    mergedPR: 704
+    mergedPR: 705
     openPR: 2
     closedIssue: 132
     openIssue: 2
-    commit: 3582
+    commit: 3583
 total:
   release: 35
-  mergedPR: 704
+  mergedPR: 705
   openPR: 2
   closedIssue: 132
   openIssue: 2
-  commit: 3582
+  commit: 3583
 ---
 path: /home/runner/.x-repo/github.com/ctxrs/ctx
-collectedAt: 2026-09-04T20:09:54Z
+collectedAt: 2026-09-04T20:32:39Z
 loc:
   Rust:
-    code: 622243
+    code: 622990
     comments: 2274
-    blanks: 45207
-    files: 1858
+    blanks: 45274
+    files: 1860
   Python:
     code: 37041
     comments: 189
@@ -111,10 +111,10 @@ loc:
     blanks: 2003
     files: 124
   Json:
-    code: 5766
+    code: 5788
     comments: 0
     blanks: 0
-    files: 98
+    files: 99
   Java:
     code: 5560
     comments: 73
@@ -182,8 +182,8 @@ loc:
     files: 2
   Markdown:
     code: 0
-    comments: 9087
-    blanks: 2114
+    comments: 9114
+    blanks: 2117
     files: 72
   Text:
     code: 0
@@ -191,9 +191,9 @@ loc:
     blanks: 9
     files: 6
 total:
-  code: 719208
-  comments: 16919
-  blanks: 56656
-  files: 2467
+  code: 719977
+  comments: 16952
+  blanks: 56726
+  files: 2470
 ---
 
