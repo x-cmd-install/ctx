@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 45513944,
       "digest": "sha256:323872df83589328359a0775046a165ac5256725746636e9f3a456fbe242618c",
-      "download_count": 25,
+      "download_count": 28,
       "created_at": "2026-09-03T02:01:19Z",
       "updated_at": "2026-09-03T02:01:22Z",
       "browser_download_url": "https://github.com/ctxrs/ctx/releases/download/v1.3.1/ctx-linux-aarch64"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 51923904,
       "digest": "sha256:67cb0eb8c12c49f1f69a83a73ddf9a5c8d8282c3f2c77a53fa541210cb501109",
-      "download_count": 43,
+      "download_count": 49,
       "created_at": "2026-09-03T02:01:19Z",
       "updated_at": "2026-09-03T02:01:23Z",
       "browser_download_url": "https://github.com/ctxrs/ctx/releases/download/v1.3.1/ctx-linux-x64"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 45302528,
       "digest": "sha256:90807a133453ed6a2a70b6fdfb70a1ce7da9b6d4eb2cf33248020c664d330d99",
-      "download_count": 58,
+      "download_count": 60,
       "created_at": "2026-09-03T02:01:19Z",
       "updated_at": "2026-09-03T02:01:22Z",
       "browser_download_url": "https://github.com/ctxrs/ctx/releases/download/v1.3.1/ctx-macos-arm64"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 49068304,
       "digest": "sha256:397b058a522fe27bbc28fcfc7519ecd7d40d768344403bf6a7d50cd90bc84dff",
-      "download_count": 14,
+      "download_count": 15,
       "created_at": "2026-09-03T02:01:19Z",
       "updated_at": "2026-09-03T02:01:22Z",
       "browser_download_url": "https://github.com/ctxrs/ctx/releases/download/v1.3.1/ctx-macos-x64"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 60906216,
       "digest": "sha256:4c92e1cac5196b28e9263394bac6865ac136b1402219f327d8f30f13e0a8ebdf",
-      "download_count": 23,
+      "download_count": 26,
       "created_at": "2026-09-03T02:01:19Z",
       "updated_at": "2026-09-03T02:01:23Z",
       "browser_download_url": "https://github.com/ctxrs/ctx/releases/download/v1.3.1/ctx-windows-x64.exe"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 412,
       "digest": "sha256:63500ab40e1815ca716e4b7ef19ec3b2e898a6615f7cbfcc02a83c222a83f203",
-      "download_count": 45,
+      "download_count": 47,
       "created_at": "2026-09-03T02:01:22Z",
       "updated_at": "2026-09-03T02:01:22Z",
       "browser_download_url": "https://github.com/ctxrs/ctx/releases/download/v1.3.1/SHA256SUMS"

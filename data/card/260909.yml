@@ -7,7 +7,7 @@ about:
   latestVersion: "v1.3.1"
   latestRelease: "v1.3.1"
   latestPrerelease: "v1.3.0"
-  collectedAt: 2026-09-09T04:01:44Z
+  collectedAt: 2026-09-09T18:46:40Z
 timeline:
   created: 2026-02-23
   lastCommit: 2026-09-07
@@ -15,13 +15,13 @@ timeline:
   lastRelease: 2026-09-03
   lastPrerelease: 2026-09-02
 popularity:
-  star: 1084
+  star: 1086
   watcher: 5
   fork: 70
   release: 35
   contributor: 20
   pullRequest: 808
-  issue: 141
+  issue: 142
 language:
   Rust: 24281592
   Python: 1633094
@@ -44,7 +44,7 @@ recent:
     mergedPR: 440
     openPR: 3
     closedIssue: 77
-    openIssue: 7
+    openIssue: 8
     commit: 679
   last60d:
     since: 2026-07-11
@@ -52,7 +52,7 @@ recent:
     mergedPR: 645
     openPR: 3
     closedIssue: 119
-    openIssue: 7
+    openIssue: 8
     commit: 2593
   last90d:
     since: 2026-06-11
@@ -60,7 +60,7 @@ recent:
     mergedPR: 734
     openPR: 4
     closedIssue: 130
-    openIssue: 7
+    openIssue: 8
     commit: 2855
   last180d:
     since: 2026-03-13
@@ -68,7 +68,7 @@ recent:
     mergedPR: 734
     openPR: 4
     closedIssue: 134
-    openIssue: 7
+    openIssue: 8
     commit: 2855
   last360d:
     since: 2025-09-14
@@ -76,7 +76,7 @@ recent:
     mergedPR: 734
     openPR: 4
     closedIssue: 134
-    openIssue: 7
+    openIssue: 8
     commit: 2855
   last720d:
     since: 2024-09-19
@@ -84,18 +84,18 @@ recent:
     mergedPR: 734
     openPR: 4
     closedIssue: 134
-    openIssue: 7
+    openIssue: 8
     commit: 3612
 total:
   release: 35
   mergedPR: 734
   openPR: 4
   closedIssue: 134
-  openIssue: 7
+  openIssue: 8
   commit: 3612
 ---
 path: /home/runner/.x-repo/github.com/ctxrs/ctx
-collectedAt: 2026-09-09T04:01:54Z
+collectedAt: 2026-09-09T18:46:52Z
 loc:
   Rust:
     code: 632268
