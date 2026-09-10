@@ -12,6 +12,18 @@ Instant recall for coding agents. Search the history already on your machine. Gi
 x install ctx
 ```
 
+## Code insight
+
+Total: **729,729** lines of code across **2295** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| Rust | 632,329 | 2,483 | 45,575 | 1896 |
+| Python | 38,008 | 207 | 4,025 | 122 |
+| Sh | 22,922 | 341 | 2,007 | 124 |
+| Json | 5,921 | 0 | 0 | 102 |
+| Java | 5,643 | 74 | 937 | 51 |
+
 ## Source
 
 - **Upstream**: <https://github.com/ctxrs/ctx>
@@ -23,6 +35,25 @@ x install ctx
 - **Latest**: `v1.4.1` (2026-09-10)
 - **Last commit**: 2026-09-10
 - **Assets in release**: 21
+
+## Popularity
+
+- **Stars**: 1,086 · **Forks**: 70 · **Open issues**: 146 · **Contributors**: 20
+
+## Totals (cumulative)
+
+- **Releases**: 38 · **Merged PRs**: 738 · **Open PRs**: 5 · **Closed issues**: 136 · **Open issues**: 10 · **Commits**: 3616
+
+## Recent activity
+
+| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-11 | 15 | 396 | 4 | 78 | 10 | 683 |
+| last60d | 2026-07-12 | 16 | 634 | 4 | 120 | 10 | 2597 |
+| 90d | 2026-06-12 | 38 | 738 | 5 | 132 | 10 | 2859 |
+| last180d | 2026-03-14 | 38 | 738 | 5 | 136 | 10 | 2859 |
+| 360d | 2025-09-15 | 38 | 738 | 5 | 136 | 10 | 2859 |
+| last720d | 2024-09-20 | 38 | 738 | 5 | 136 | 10 | 3616 |
 
 ## Release assets
 
@@ -50,33 +81,13 @@ x install ctx
 | [ctx-windows-x64.exe.third-party-notices.txt](https://github.com/ctxrs/ctx/releases/download/v1.4.1/ctx-windows-x64.exe.third-party-notices.txt) | 947.1 KiB | `native/win/x64` |
 | [SHA256SUMS](https://github.com/ctxrs/ctx/releases/download/v1.4.1/SHA256SUMS) | 1.9 KiB | `other` |
 
-## Popularity
+## Distribution status
 
-- **Stars**: 1,086 · **Forks**: 70 · **Open issues**: 146 · **Contributors**: 20
+Reported by **8** distros on [repology.org](https://repology.org/project/ctx). **2** are ✅ on the latest upstream release, **2** are ⚠️ on an older version.
 
-## Totals (cumulative)
-
-- **Releases**: 38 · **Merged PRs**: 737 · **Open PRs**: 5 · **Closed issues**: 135 · **Open issues**: 11 · **Commits**: 3615
-
-## Recent activity
-
-| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
-|---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 15 | 395 | 4 | 77 | 11 | 682 |
-| 90d | 2026-06-12 | 38 | 737 | 5 | 131 | 11 | 2858 |
-| 360d | 2025-09-15 | 38 | 737 | 5 | 135 | 11 | 2858 |
-
-## Code size
-
-Total: **729,555** lines of code across **2293** files in the top 5 languages.
-
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
-| Rust | 632,329 | 2,483 | 45,575 | 1896 |
-| Python | 37,850 | 204 | 4,000 | 120 |
-| Sh | 22,906 | 339 | 2,007 | 124 |
-| Json | 5,921 | 0 | 0 | 102 |
-| Java | 5,643 | 74 | 937 | 51 |
+| Distro | Version | Status |
+|--------|---------|--------|
+| Nix unstable | `0-unstable-2023-09-03` | ⚠️ outdated |
 
 ## Improve this data
 
@@ -87,4 +98,4 @@ Install metadata for ctx lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T16:06:01Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T21:24:31Z._
