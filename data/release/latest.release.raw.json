@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 51369808,
       "digest": "sha256:0ff35fcadd3f2edfc64c11a7f227d40ddf3aa980d1fe80a71111f9d81c002542",
-      "download_count": 7,
+      "download_count": 8,
       "created_at": "2026-09-10T13:32:57Z",
       "updated_at": "2026-09-10T13:32:59Z",
       "browser_download_url": "https://github.com/ctxrs/ctx/releases/download/v1.4.1/ctx-linux-x64"

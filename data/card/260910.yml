@@ -7,7 +7,7 @@ about:
   latestVersion: "v1.4.1"
   latestRelease: "v1.4.1"
   latestPrerelease: "v1.3.0"
-  collectedAt: 2026-09-10T21:24:07Z
+  collectedAt: 2026-09-10T22:26:18Z
 timeline:
   created: 2026-02-23
   lastCommit: 2026-09-10
@@ -95,7 +95,7 @@ total:
   commit: 3616
 ---
 path: /home/runner/.x-repo/github.com/ctxrs/ctx
-collectedAt: 2026-09-10T21:24:18Z
+collectedAt: 2026-09-10T22:26:34Z
 loc:
   Rust:
     code: 632329
