@@ -1,9 +1,9 @@
 {
-  "url": "https://api.github.com/repos/ctxrs/ctx/releases/385901549",
-  "assets_url": "https://api.github.com/repos/ctxrs/ctx/releases/385901549/assets",
-  "upload_url": "https://uploads.github.com/repos/ctxrs/ctx/releases/385901549/assets{?name,label}",
-  "html_url": "https://github.com/ctxrs/ctx/releases/tag/v1.4.0",
-  "id": 385901549,
+  "url": "https://api.github.com/repos/ctxrs/ctx/releases/386311624",
+  "assets_url": "https://api.github.com/repos/ctxrs/ctx/releases/386311624/assets",
+  "upload_url": "https://uploads.github.com/repos/ctxrs/ctx/releases/386311624/assets{?name,label}",
+  "html_url": "https://github.com/ctxrs/ctx/releases/tag/v1.4.1",
+  "id": 386311624,
   "author": {
     "login": "luca-ctx",
     "id": 216224554,
@@ -25,21 +25,21 @@
     "user_view_type": "public",
     "site_admin": false
   },
-  "node_id": "RE_kwDORXJDbs4XAGPt",
-  "tag_name": "v1.4.0",
+  "node_id": "RE_kwDORXJDbs4XBqXI",
+  "tag_name": "v1.4.1",
   "target_commitish": "main",
-  "name": "v1.4.0",
+  "name": "v1.4.1",
   "draft": false,
   "immutable": false,
   "prerelease": false,
-  "created_at": "2026-09-09T22:51:08Z",
-  "updated_at": "2026-09-09T23:23:55Z",
-  "published_at": "2026-09-09T23:10:30Z",
+  "created_at": "2026-09-10T12:53:47Z",
+  "updated_at": "2026-09-10T13:44:13Z",
+  "published_at": "2026-09-10T13:32:56Z",
   "assets": [
     {
-      "url": "https://api.github.com/repos/ctxrs/ctx/releases/assets/553754338",
-      "id": 553754338,
-      "node_id": "RA_kwDORXJDbs4hAZ7i",
+      "url": "https://api.github.com/repos/ctxrs/ctx/releases/assets/555082850",
+      "id": 555082850,
+      "node_id": "RA_kwDORXJDbs4hFeRi",
       "name": "ctx-linux-aarch64",
       "label": "",
       "uploader": {
@@ -65,17 +65,17 @@
       },
       "content_type": "application/octet-stream",
       "state": "uploaded",
-      "size": 45029544,
-      "digest": "sha256:02fcb6d7530429dfffe54eb3f44369dc2f44361ab0b52cabf1c2b0b069a5123a",
-      "download_count": 6,
-      "created_at": "2026-09-09T23:10:31Z",
-      "updated_at": "2026-09-09T23:10:33Z",
-      "browser_download_url": "https://github.com/ctxrs/ctx/releases/download/v1.4.0/ctx-linux-aarch64"
+      "size": 45023688,
+      "digest": "sha256:bc44a8efd833a504358824f9de99b4d0c6d8652f8fa6fea3a504ebf7b54b37a9",
+      "download_count": 5,
+      "created_at": "2026-09-10T13:32:57Z",
+      "updated_at": "2026-09-10T13:32:59Z",
+      "browser_download_url": "https://github.com/ctxrs/ctx/releases/download/v1.4.1/ctx-linux-aarch64"
     },
     {
-      "url": "https://api.github.com/repos/ctxrs/ctx/releases/assets/553754339",
-      "id": 553754339,
-      "node_id": "RA_kwDORXJDbs4hAZ7j",
+      "url": "https://api.github.com/repos/ctxrs/ctx/releases/assets/555082851",
+      "id": 555082851,
+      "node_id": "RA_kwDORXJDbs4hFeRj",
       "name": "ctx-linux-aarch64.cdx.json",
       "label": "",
       "uploader": {
@@ -102,16 +102,16 @@
       "content_type": "application/json",
       "state": "uploaded",
       "size": 502489,
-      "digest": "sha256:8892c5e26ec0b550f60adb27a4710dcb48d91f7ceb04b8c400c6cbd5ee1b035e",
-      "download_count": 5,
-      "created_at": "2026-09-09T23:10:31Z",
-      "updated_at": "2026-09-09T23:10:31Z",
-      "browser_download_url": "https://github.com/ctxrs/ctx/releases/download/v1.4.0/ctx-linux-aarch64.cdx.json"
+      "digest": "sha256:1d29353b898cf6ad11962ff4fd2a50f2b799a1544e0f4b3afa832eed73f186bc",
+      "download_count": 4,
+      "created_at": "2026-09-10T13:32:57Z",
+      "updated_at": "2026-09-10T13:32:57Z",
+      "browser_download_url": "https://github.com/ctxrs/ctx/releases/download/v1.4.1/ctx-linux-aarch64.cdx.json"
     },
     {
-      "url": "https://api.github.com/repos/ctxrs/ctx/releases/assets/553754337",
-      "id": 553754337,
-      "node_id": "RA_kwDORXJDbs4hAZ7h",
+      "url": "https://api.github.com/repos/ctxrs/ctx/releases/assets/555082847",
+      "id": 555082847,
+      "node_id": "RA_kwDORXJDbs4hFeRf",
       "name": "ctx-linux-aarch64.third-party-notices.txt",
       "label": "",
       "uploader": {
@@ -138,16 +138,16 @@
       "content_type": "text/plain; charset=utf-8",
       "state": "uploaded",
       "size": 964605,
-      "digest": "sha256:5cdd57b060ad88c97fe0ef77ab0fa4e9a782893bfb853af746668b0e30fab3a9",
-      "download_count": 6,
-      "created_at": "2026-09-09T23:10:31Z",
-      "updated_at": "2026-09-09T23:10:31Z",
-      "browser_download_url": "https://github.com/ctxrs/ctx/releases/download/v1.4.0/ctx-linux-aarch64.third-party-notices.txt"
+      "digest": "sha256:d5e7d9703dc94011444aa79f8cce47638af26cc49746bc4927c581ea3fc1f639",
+      "download_count": 5,
+      "created_at": "2026-09-10T13:32:57Z",
+      "updated_at": "2026-09-10T13:32:57Z",
+      "browser_download_url": "https://github.com/ctxrs/ctx/releases/download/v1.4.1/ctx-linux-aarch64.third-party-notices.txt"
     },
     {
-      "url": "https://api.github.com/repos/ctxrs/ctx/releases/assets/553754341",
-      "id": 553754341,
-      "node_id": "RA_kwDORXJDbs4hAZ7l",
+      "url": "https://api.github.com/repos/ctxrs/ctx/releases/assets/555082852",
+      "id": 555082852,
+      "node_id": "RA_kwDORXJDbs4hFeRk",
       "name": "ctx-linux-x64",
       "label": "",
       "uploader": {
@@ -173,17 +173,17 @@
       },
       "content_type": "application/octet-stream",
       "state": "uploaded",
-      "size": 51371568,
-      "digest": "sha256:eede16a831399fd08de42af49e19be819f70da89b62fd612a8ba46958351552c",
-      "download_count": 6,
-      "created_at": "2026-09-09T23:10:31Z",
-      "updated_at": "2026-09-09T23:10:33Z",
-      "browser_download_url": "https://github.com/ctxrs/ctx/releases/download/v1.4.0/ctx-linux-x64"
+      "size": 51369808,
+      "digest": "sha256:0ff35fcadd3f2edfc64c11a7f227d40ddf3aa980d1fe80a71111f9d81c002542",
+      "download_count": 5,
+      "created_at": "2026-09-10T13:32:57Z",
+      "updated_at": "2026-09-10T13:32:59Z",
+      "browser_download_url": "https://github.com/ctxrs/ctx/releases/download/v1.4.1/ctx-linux-x64"
     },
     {
-      "url": "https://api.github.com/repos/ctxrs/ctx/releases/assets/553754340",
-      "id": 553754340,
-      "node_id": "RA_kwDORXJDbs4hAZ7k",
+      "url": "https://api.github.com/repos/ctxrs/ctx/releases/assets/555082849",
+      "id": 555082849,
+      "node_id": "RA_kwDORXJDbs4hFeRh",
       "name": "ctx-linux-x64.cdx.json",
       "label": "",
       "uploader": {
@@ -210,16 +210,16 @@
       "content_type": "application/json",
       "state": "uploaded",
       "size": 503568,
-      "digest": "sha256:b19f599c23595e8087b37332766fe1cd10cfd5011855b2b570cbb01cfa92fffa",
-      "download_count": 5,
-      "created_at": "2026-09-09T23:10:31Z",
-      "updated_at": "2026-09-09T23:10:31Z",
-      "browser_download_url": "https://github.com/ctxrs/ctx/releases/download/v1.4.0/ctx-linux-x64.cdx.json"
+      "digest": "sha256:90bd1be152f978feb41d220bd683044750c3fda47f8574fce4a7df9bfee3affc",
+      "download_count": 4,
+      "created_at": "2026-09-10T13:32:57Z",
+      "updated_at": "2026-09-10T13:32:57Z",
+      "browser_download_url": "https://github.com/ctxrs/ctx/releases/download/v1.4.1/ctx-linux-x64.cdx.json"
     },
     {
-      "url": "https://api.github.com/repos/ctxrs/ctx/releases/assets/553754352",
-      "id": 553754352,
-      "node_id": "RA_kwDORXJDbs4hAZ7w",
+      "url": "https://api.github.com/repos/ctxrs/ctx/releases/assets/555082865",
+      "id": 555082865,
+      "node_id": "RA_kwDORXJDbs4hFeRx",
       "name": "ctx-linux-x64.third-party-notices.txt",
       "label": "",
       "uploader": {
@@ -246,16 +246,16 @@
       "content_type": "text/plain; charset=utf-8",
       "state": "uploaded",
       "size": 965276,
-      "digest": "sha256:0f87bc9d86547b9265147141f96b703b21d97c49a1ca2e741cdc06e7a2fe213a",
-      "download_count": 6,
-      "created_at": "2026-09-09T23:10:31Z",
-      "updated_at": "2026-09-09T23:10:32Z",
-      "browser_download_url": "https://github.com/ctxrs/ctx/releases/download/v1.4.0/ctx-linux-x64.third-party-notices.txt"
+      "digest": "sha256:c002aa642bd16c6fc7611df4add53f35f2865a6696fd0d717ccd334f386d9f00",
+      "download_count": 5,
+      "created_at": "2026-09-10T13:32:57Z",
+      "updated_at": "2026-09-10T13:32:58Z",
+      "browser_download_url": "https://github.com/ctxrs/ctx/releases/download/v1.4.1/ctx-linux-x64.third-party-notices.txt"
     },
     {
-      "url": "https://api.github.com/repos/ctxrs/ctx/releases/assets/553754353",
-      "id": 553754353,
-      "node_id": "RA_kwDORXJDbs4hAZ7x",
+      "url": "https://api.github.com/repos/ctxrs/ctx/releases/assets/555082867",
+      "id": 555082867,
+      "node_id": "RA_kwDORXJDbs4hFeRz",
       "name": "ctx-macos-arm64",
       "label": "",
       "uploader": {
@@ -281,17 +281,17 @@
       },
       "content_type": "application/octet-stream",
       "state": "uploaded",
-      "size": 44856512,
-      "digest": "sha256:6b1aea494599819e41713564a7e9e9da2bcbf4c4f24104d99eda0af6b5b3a588",
-      "download_count": 10,
-      "created_at": "2026-09-09T23:10:31Z",
-      "updated_at": "2026-09-09T23:10:34Z",
-      "browser_download_url": "https://github.com/ctxrs/ctx/releases/download/v1.4.0/ctx-macos-arm64"
+      "size": 44856544,
+      "digest": "sha256:83851bd15fbaca4c07b92d0b2b7873986070b1b9284e72f1709c0dcfabacb7de",
+      "download_count": 6,
+      "created_at": "2026-09-10T13:32:57Z",
+      "updated_at": "2026-09-10T13:33:00Z",
+      "browser_download_url": "https://github.com/ctxrs/ctx/releases/download/v1.4.1/ctx-macos-arm64"
     },
     {
-      "url": "https://api.github.com/repos/ctxrs/ctx/releases/assets/553754355",
-      "id": 553754355,
-      "node_id": "RA_kwDORXJDbs4hAZ7z",
+      "url": "https://api.github.com/repos/ctxrs/ctx/releases/assets/555082869",
+      "id": 555082869,
+      "node_id": "RA_kwDORXJDbs4hFeR1",
       "name": "ctx-macos-arm64.cdx.json",
       "label": "",
       "uploader": {
@@ -318,16 +318,16 @@
       "content_type": "application/json",
       "state": "uploaded",
       "size": 517899,
-      "digest": "sha256:3c1f24dd335fa74dc78bfead78d34dc177f681625afde4321c6b71d89b67e9b2",
-      "download_count": 5,
-      "created_at": "2026-09-09T23:10:32Z",
-      "updated_at": "2026-09-09T23:10:32Z",
-      "browser_download_url": "https://github.com/ctxrs/ctx/releases/download/v1.4.0/ctx-macos-arm64.cdx.json"
+      "digest": "sha256:28a29dc553eb2ec8f1b47a1aeabb62973d1dc1016c77a9fd8613d7a701f798fe",
+      "download_count": 4,
+      "created_at": "2026-09-10T13:32:58Z",
+      "updated_at": "2026-09-10T13:32:58Z",
+      "browser_download_url": "https://github.com/ctxrs/ctx/releases/download/v1.4.1/ctx-macos-arm64.cdx.json"
     },
     {
-      "url": "https://api.github.com/repos/ctxrs/ctx/releases/assets/553754364",
-      "id": 553754364,
-      "node_id": "RA_kwDORXJDbs4hAZ78",
+      "url": "https://api.github.com/repos/ctxrs/ctx/releases/assets/555082884",
+      "id": 555082884,
+      "node_id": "RA_kwDORXJDbs4hFeSE",
       "name": "ctx-macos-arm64.third-party-notices.txt",
       "label": "",
       "uploader": {
@@ -354,16 +354,16 @@
       "content_type": "text/plain; charset=utf-8",
       "state": "uploaded",
       "size": 982100,
-      "digest": "sha256:988272015b8d85512884d24836ccef5ee0ab58868264fd09c252ccb6194d048c",
-      "download_count": 6,
-      "created_at": "2026-09-09T23:10:32Z",
-      "updated_at": "2026-09-09T23:10:32Z",
-      "browser_download_url": "https://github.com/ctxrs/ctx/releases/download/v1.4.0/ctx-macos-arm64.third-party-notices.txt"
+      "digest": "sha256:48f503a7fb51ed75b033ca4b968a632e421c8aa16dfff878251966e920b1c0e1",
+      "download_count": 5,
+      "created_at": "2026-09-10T13:32:58Z",
+      "updated_at": "2026-09-10T13:32:58Z",
+      "browser_download_url": "https://github.com/ctxrs/ctx/releases/download/v1.4.1/ctx-macos-arm64.third-party-notices.txt"
     },
     {
-      "url": "https://api.github.com/repos/ctxrs/ctx/releases/assets/553754371",
-      "id": 553754371,
-      "node_id": "RA_kwDORXJDbs4hAZ8D",
+      "url": "https://api.github.com/repos/ctxrs/ctx/releases/assets/555082881",
+      "id": 555082881,
+      "node_id": "RA_kwDORXJDbs4hFeSB",
       "name": "ctx-macos-x64",
       "label": "",
       "uploader": {
@@ -389,17 +389,17 @@
       },
       "content_type": "application/octet-stream",
       "state": "uploaded",
-      "size": 48592272,
-      "digest": "sha256:2b9b49b265f8933fbb460478019c32c47f1726275e2cb50f3c8b5eae858b835f",
-      "download_count": 6,
-      "created_at": "2026-09-09T23:10:32Z",
-      "updated_at": "2026-09-09T23:10:34Z",
-      "browser_download_url": "https://github.com/ctxrs/ctx/releases/download/v1.4.0/ctx-macos-x64"
+      "size": 48596416,
+      "digest": "sha256:a38fd6c3d0596674f37671acd00048e0728f8078f68a26fc8a80409e51ca7df2",
+      "download_count": 5,
+      "created_at": "2026-09-10T13:32:58Z",
+      "updated_at": "2026-09-10T13:33:00Z",
+      "browser_download_url": "https://github.com/ctxrs/ctx/releases/download/v1.4.1/ctx-macos-x64"
     },
     {
-      "url": "https://api.github.com/repos/ctxrs/ctx/releases/assets/553754377",
-      "id": 553754377,
-      "node_id": "RA_kwDORXJDbs4hAZ8J",
+      "url": "https://api.github.com/repos/ctxrs/ctx/releases/assets/555082897",
+      "id": 555082897,
+      "node_id": "RA_kwDORXJDbs4hFeSR",
       "name": "ctx-macos-x64.cdx.json",
       "label": "",
       "uploader": {
@@ -426,16 +426,16 @@
       "content_type": "application/json",
       "state": "uploaded",
       "size": 518980,
-      "digest": "sha256:c75e2bd63cc70880d6824f188589f9119889d1717c39ad56963a1c893c09d004",
-      "download_count": 5,
-      "created_at": "2026-09-09T23:10:32Z",
-      "updated_at": "2026-09-09T23:10:33Z",
-      "browser_download_url": "https://github.com/ctxrs/ctx/releases/download/v1.4.0/ctx-macos-x64.cdx.json"
+      "digest": "sha256:1b6f8e58800099293f3046c73d4a426f9d0816fd5685be8382d2ac0d9c20761d",
+      "download_count": 4,
+      "created_at": "2026-09-10T13:32:59Z",
+      "updated_at": "2026-09-10T13:32:59Z",
+      "browser_download_url": "https://github.com/ctxrs/ctx/releases/download/v1.4.1/ctx-macos-x64.cdx.json"
     },
     {
-      "url": "https://api.github.com/repos/ctxrs/ctx/releases/assets/553754390",
-      "id": 553754390,
-      "node_id": "RA_kwDORXJDbs4hAZ8W",
+      "url": "https://api.github.com/repos/ctxrs/ctx/releases/assets/555082921",
+      "id": 555082921,
+      "node_id": "RA_kwDORXJDbs4hFeSp",
       "name": "ctx-macos-x64.third-party-notices.txt",
       "label": "",
       "uploader": {
@@ -462,16 +462,16 @@
       "content_type": "text/plain; charset=utf-8",
       "state": "uploaded",
       "size": 982773,
-      "digest": "sha256:a12ef64ee296c2924b29a277557789da50e8254afc96d795a13c5eff853ef437",
-      "download_count": 6,
-      "created_at": "2026-09-09T23:10:33Z",
-      "updated_at": "2026-09-09T23:10:33Z",
-      "browser_download_url": "https://github.com/ctxrs/ctx/releases/download/v1.4.0/ctx-macos-x64.third-party-notices.txt"
+      "digest": "sha256:f9e006db512c8a631e6f988196f783c1c2fa84604bbfff4ee8e6499063fe188d",
+      "download_count": 5,
+      "created_at": "2026-09-10T13:32:59Z",
+      "updated_at": "2026-09-10T13:32:59Z",
+      "browser_download_url": "https://github.com/ctxrs/ctx/releases/download/v1.4.1/ctx-macos-x64.third-party-notices.txt"
     },
     {
-      "url": "https://api.github.com/repos/ctxrs/ctx/releases/assets/553754427",
-      "id": 553754427,
-      "node_id": "RA_kwDORXJDbs4hAZ87",
+      "url": "https://api.github.com/repos/ctxrs/ctx/releases/assets/555082930",
+      "id": 555082930,
+      "node_id": "RA_kwDORXJDbs4hFeSy",
       "name": "ctx-onnxruntime-linux-aarch64.tar.gz",
       "label": "",
       "uploader": {
@@ -499,15 +499,15 @@
       "state": "uploaded",
       "size": 7597022,
       "digest": "sha256:75460527eb2f25ed3044cb45b2527f6af2e5165f77c6e82722bdc0c323bb8279",
-      "download_count": 5,
-      "created_at": "2026-09-09T23:10:33Z",
-      "updated_at": "2026-09-09T23:10:34Z",
-      "browser_download_url": "https://github.com/ctxrs/ctx/releases/download/v1.4.0/ctx-onnxruntime-linux-aarch64.tar.gz"
+      "download_count": 4,
+      "created_at": "2026-09-10T13:32:59Z",
+      "updated_at": "2026-09-10T13:33:00Z",
+      "browser_download_url": "https://github.com/ctxrs/ctx/releases/download/v1.4.1/ctx-onnxruntime-linux-aarch64.tar.gz"
     },
     {
-      "url": "https://api.github.com/repos/ctxrs/ctx/releases/assets/553754433",
-      "id": 553754433,
-      "node_id": "RA_kwDORXJDbs4hAZ9B",
+      "url": "https://api.github.com/repos/ctxrs/ctx/releases/assets/555082932",
+      "id": 555082932,
+      "node_id": "RA_kwDORXJDbs4hFeS0",
       "name": "ctx-onnxruntime-linux-x64.tar.gz",
       "label": "",
       "uploader": {
@@ -535,15 +535,15 @@
       "state": "uploaded",
       "size": 8606498,
       "digest": "sha256:d59280037cf71b3ad7f6c4c2a28b52ecd09bdc83943f18d5bc8fc39bcdc8a76c",
-      "download_count": 5,
-      "created_at": "2026-09-09T23:10:33Z",
-      "updated_at": "2026-09-09T23:10:34Z",
-      "browser_download_url": "https://github.com/ctxrs/ctx/releases/download/v1.4.0/ctx-onnxruntime-linux-x64.tar.gz"
+      "download_count": 4,
+      "created_at": "2026-09-10T13:33:00Z",
+      "updated_at": "2026-09-10T13:33:00Z",
+      "browser_download_url": "https://github.com/ctxrs/ctx/releases/download/v1.4.1/ctx-onnxruntime-linux-x64.tar.gz"
     },
     {
-      "url": "https://api.github.com/repos/ctxrs/ctx/releases/assets/553754444",
-      "id": 553754444,
-      "node_id": "RA_kwDORXJDbs4hAZ9M",
+      "url": "https://api.github.com/repos/ctxrs/ctx/releases/assets/555082940",
+      "id": 555082940,
+      "node_id": "RA_kwDORXJDbs4hFeS8",
       "name": "ctx-onnxruntime-macos-arm64.tar.gz",
       "label": "",
       "uploader": {
@@ -571,15 +571,15 @@
       "state": "uploaded",
       "size": 10489616,
       "digest": "sha256:65b822a631678665b8a25af618a67845dee72a476f3926fe2b5d6ecada7dddae",
-      "download_count": 5,
-      "created_at": "2026-09-09T23:10:34Z",
-      "updated_at": "2026-09-09T23:10:34Z",
-      "browser_download_url": "https://github.com/ctxrs/ctx/releases/download/v1.4.0/ctx-onnxruntime-macos-arm64.tar.gz"
+      "download_count": 4,
+      "created_at": "2026-09-10T13:33:00Z",
+      "updated_at": "2026-09-10T13:33:01Z",
+      "browser_download_url": "https://github.com/ctxrs/ctx/releases/download/v1.4.1/ctx-onnxruntime-macos-arm64.tar.gz"
     },
     {
-      "url": "https://api.github.com/repos/ctxrs/ctx/releases/assets/553754451",
-      "id": 553754451,
-      "node_id": "RA_kwDORXJDbs4hAZ9T",
+      "url": "https://api.github.com/repos/ctxrs/ctx/releases/assets/555082950",
+      "id": 555082950,
+      "node_id": "RA_kwDORXJDbs4hFeTG",
       "name": "ctx-onnxruntime-macos-x64.tar.gz",
       "label": "",
       "uploader": {
@@ -607,15 +607,15 @@
       "state": "uploaded",
       "size": 8038279,
       "digest": "sha256:32df39dc6adaa102257ca4517abed43648a0fa0f52164cdf5cab0e90fd4700f8",
-      "download_count": 5,
-      "created_at": "2026-09-09T23:10:34Z",
-      "updated_at": "2026-09-09T23:10:34Z",
-      "browser_download_url": "https://github.com/ctxrs/ctx/releases/download/v1.4.0/ctx-onnxruntime-macos-x64.tar.gz"
+      "download_count": 4,
+      "created_at": "2026-09-10T13:33:00Z",
+      "updated_at": "2026-09-10T13:33:01Z",
+      "browser_download_url": "https://github.com/ctxrs/ctx/releases/download/v1.4.1/ctx-onnxruntime-macos-x64.tar.gz"
     },
     {
-      "url": "https://api.github.com/repos/ctxrs/ctx/releases/assets/553754457",
-      "id": 553754457,
-      "node_id": "RA_kwDORXJDbs4hAZ9Z",
+      "url": "https://api.github.com/repos/ctxrs/ctx/releases/assets/555082960",
+      "id": 555082960,
+      "node_id": "RA_kwDORXJDbs4hFeTQ",
       "name": "ctx-onnxruntime-windows-x64.zip",
       "label": "",
       "uploader": {
@@ -643,15 +643,15 @@
       "state": "uploaded",
       "size": 5940650,
       "digest": "sha256:7fc0ed292117a84373268fd68e4c7f1dbdcb06fa5057c7ce44579b918dbe36c3",
-      "download_count": 5,
-      "created_at": "2026-09-09T23:10:34Z",
-      "updated_at": "2026-09-09T23:10:34Z",
-      "browser_download_url": "https://github.com/ctxrs/ctx/releases/download/v1.4.0/ctx-onnxruntime-windows-x64.zip"
+      "download_count": 4,
+      "created_at": "2026-09-10T13:33:00Z",
+      "updated_at": "2026-09-10T13:33:01Z",
+      "browser_download_url": "https://github.com/ctxrs/ctx/releases/download/v1.4.1/ctx-onnxruntime-windows-x64.zip"
     },
     {
-      "url": "https://api.github.com/repos/ctxrs/ctx/releases/assets/553754459",
-      "id": 553754459,
-      "node_id": "RA_kwDORXJDbs4hAZ9b",
+      "url": "https://api.github.com/repos/ctxrs/ctx/releases/assets/555082962",
+      "id": 555082962,
+      "node_id": "RA_kwDORXJDbs4hFeTS",
       "name": "ctx-windows-x64.exe",
       "label": "",
       "uploader": {
@@ -677,17 +677,17 @@
       },
       "content_type": "application/x-msdownload",
       "state": "uploaded",
-      "size": 60339944,
-      "digest": "sha256:f3b7a92d8800f2d70699f516934d505d2897a405b82f99c938f29e2cfe9386b3",
-      "download_count": 6,
-      "created_at": "2026-09-09T23:10:34Z",
-      "updated_at": "2026-09-09T23:10:37Z",
-      "browser_download_url": "https://github.com/ctxrs/ctx/releases/download/v1.4.0/ctx-windows-x64.exe"
+      "size": 60340456,
+      "digest": "sha256:d6a801771fb7a7245c3d491d3c1763c4181bdaa816fe10bfd41b21af7f8692e7",
+      "download_count": 4,
+      "created_at": "2026-09-10T13:33:00Z",
+      "updated_at": "2026-09-10T13:33:03Z",
+      "browser_download_url": "https://github.com/ctxrs/ctx/releases/download/v1.4.1/ctx-windows-x64.exe"
     },
     {
-      "url": "https://api.github.com/repos/ctxrs/ctx/releases/assets/553754461",
-      "id": 553754461,
-      "node_id": "RA_kwDORXJDbs4hAZ9d",
+      "url": "https://api.github.com/repos/ctxrs/ctx/releases/assets/555082972",
+      "id": 555082972,
+      "node_id": "RA_kwDORXJDbs4hFeTc",
       "name": "ctx-windows-x64.exe.cdx.json",
       "label": "",
       "uploader": {
@@ -714,16 +714,16 @@
       "content_type": "application/json",
       "state": "uploaded",
       "size": 513763,
-      "digest": "sha256:c0e37a2e0b1d8f83b03afbb706d8332982e2ea44db985b308f3f61570275aea3",
-      "download_count": 5,
-      "created_at": "2026-09-09T23:10:34Z",
-      "updated_at": "2026-09-09T23:10:34Z",
-      "browser_download_url": "https://github.com/ctxrs/ctx/releases/download/v1.4.0/ctx-windows-x64.exe.cdx.json"
+      "digest": "sha256:7f86e22aec5376b675592933f5e038774c5d93ad8c437419097f522a5f4e40f4",
+      "download_count": 4,
+      "created_at": "2026-09-10T13:33:01Z",
+      "updated_at": "2026-09-10T13:33:01Z",
+      "browser_download_url": "https://github.com/ctxrs/ctx/releases/download/v1.4.1/ctx-windows-x64.exe.cdx.json"
     },
     {
-      "url": "https://api.github.com/repos/ctxrs/ctx/releases/assets/553754469",
-      "id": 553754469,
-      "node_id": "RA_kwDORXJDbs4hAZ9l",
+      "url": "https://api.github.com/repos/ctxrs/ctx/releases/assets/555082978",
+      "id": 555082978,
+      "node_id": "RA_kwDORXJDbs4hFeTi",
       "name": "ctx-windows-x64.exe.third-party-notices.txt",
       "label": "",
       "uploader": {
@@ -750,16 +750,16 @@
       "content_type": "text/plain; charset=utf-8",
       "state": "uploaded",
       "size": 969836,
-      "digest": "sha256:d5452f77ce34d18a1e1a78de406d561884a8bad00621508f7cddd451eec2afdb",
-      "download_count": 6,
-      "created_at": "2026-09-09T23:10:35Z",
-      "updated_at": "2026-09-09T23:10:35Z",
-      "browser_download_url": "https://github.com/ctxrs/ctx/releases/download/v1.4.0/ctx-windows-x64.exe.third-party-notices.txt"
+      "digest": "sha256:6cf6df8927cdb4989d273e809bc88119ab685d3edf247acfdfebeb63eca2591d",
+      "download_count": 5,
+      "created_at": "2026-09-10T13:33:01Z",
+      "updated_at": "2026-09-10T13:33:01Z",
+      "browser_download_url": "https://github.com/ctxrs/ctx/releases/download/v1.4.1/ctx-windows-x64.exe.third-party-notices.txt"
     },
     {
-      "url": "https://api.github.com/repos/ctxrs/ctx/releases/assets/553754471",
-      "id": 553754471,
-      "node_id": "RA_kwDORXJDbs4hAZ9n",
+      "url": "https://api.github.com/repos/ctxrs/ctx/releases/assets/555082981",
+      "id": 555082981,
+      "node_id": "RA_kwDORXJDbs4hFeTl",
       "name": "SHA256SUMS",
       "label": "",
       "uploader": {
@@ -786,14 +786,14 @@
       "content_type": "application/octet-stream",
       "state": "uploaded",
       "size": 1901,
-      "digest": "sha256:5fdf87ba50abe995712dc7440cf86d951a875d03af3147df3d2cf74c20d68ce3",
-      "download_count": 6,
-      "created_at": "2026-09-09T23:10:35Z",
-      "updated_at": "2026-09-09T23:10:35Z",
-      "browser_download_url": "https://github.com/ctxrs/ctx/releases/download/v1.4.0/SHA256SUMS"
+      "digest": "sha256:22ad234adac06fe130f400b393d3ee1aa9eb88b6c239aa55b3f7a795a4959eb3",
+      "download_count": 5,
+      "created_at": "2026-09-10T13:33:01Z",
+      "updated_at": "2026-09-10T13:33:01Z",
+      "browser_download_url": "https://github.com/ctxrs/ctx/releases/download/v1.4.1/SHA256SUMS"
     }
   ],
-  "tarball_url": "https://api.github.com/repos/ctxrs/ctx/tarball/v1.4.0",
-  "zipball_url": "https://api.github.com/repos/ctxrs/ctx/zipball/v1.4.0",
-  "body": "Released: 2026-09-09\n\n### Changed\n\n- The seven in-repo SDKs now use `agent-history-v2`, with schema version 1.\n  The generic `localOnly` status property is removed. CLI status and setup JSON\n  use schema version 3; generic usage/error, index and daemon envelopes use\n  schema version 2. Update consumers that require the old field or check these\n  versions; the [migration guide](https://github.com/ctxrs/ctx/blob/1dc6d684c62ccfdb86ee1733e69144a824a745f4/contracts/agent-history-v2/README.md#migrating-from-v1)\n  covers the affected APIs. Operation-specific Semantic diagnostics retain\n  their execution-location information.\n\n### Fixed\n\n- Semantic search shows and cites the passage that earned the result's score.\n- Semantic document chunks no longer lose their final tokens to tokenizer\n  truncation.\n- Codex imports preserve distinct item and tool-call identities when both are\n  present in a transcript.\n- Failed index rebuilds clean up their abandoned candidate files. Disk-pressure\n  reports use the observed free space.\n\nGitHub downloads contain unmanaged Core-only binaries. The\n[hosted installer](https://ctx.rs/install) installs the managed Core and Pro pair.\nExisting managed installations move through the 1.3.2 bridge before 1.4.0.\nWindows 0.25.0 users must stop any opted-in legacy ctx daemon and rerun the\n[PowerShell installer](https://ctx.rs/install.ps1).\n\n### Commits and PRs\n\n- Source commit: [1dc6d684](https://github.com/ctxrs/ctx/commit/1dc6d684c62ccfdb86ee1733e69144a824a745f4).\n- Full diff: [v1.3.2...1dc6d684](https://github.com/ctxrs/ctx/compare/v1.3.2...1dc6d684c62ccfdb86ee1733e69144a824a745f4).\n- Merged PRs: [#959](https://github.com/ctxrs/ctx/pull/959),\n  [#960](https://github.com/ctxrs/ctx/pull/960).\n- Direct commits: [a16a8023](https://github.com/ctxrs/ctx/commit/a16a8023dd172ecd88003241bb49c5789a247067),\n  [2ba1b48f](https://github.com/ctxrs/ctx/commit/2ba1b48fb4b17bfe34d8b174038df80606ff34b6),\n  [d5fd46e4](https://github.com/ctxrs/ctx/commit/d5fd46e41e896f4221af793975053dc8c115b1f3),\n  [1595b89e](https://github.com/ctxrs/ctx/commit/1595b89e3de8aed0e76d8901e54a3ddfaee36f4a), and\n  [1e199c7e](https://github.com/ctxrs/ctx/commit/1e199c7e95960f48af4d5dbb02f2d259a5aea26c).\n"
+  "tarball_url": "https://api.github.com/repos/ctxrs/ctx/tarball/v1.4.1",
+  "zipball_url": "https://api.github.com/repos/ctxrs/ctx/zipball/v1.4.1",
+  "body": "Released: 2026-09-10\n\n### Fixed\n\n- Restores the telemetry recovery fix from 1.3.2 that was missing in 1.4.0.\n  After reporting a partial backlog, the client now reports recovery when the\n  remaining events finish sending, including after a restart.\n- Restores installation and recovery guidance, including PATH checks, retry\n  commands, custom install locations, and the distinction between installing\n  the companion and activating Pro.\n\nThe original update feed remains frozen at the 1.3.2 bridge. Current managed\ninstallations receive 1.4.1 through the newer feed.\n\n### Commits and PRs\n\n- Source commit: [5b3fb3ac](https://github.com/ctxrs/ctx/commit/5b3fb3ac63a0ecb66ba943a5d0e9380134320726).\n- Full diff: [v1.4.0...5b3fb3ac](https://github.com/ctxrs/ctx/compare/v1.4.0...5b3fb3ac63a0ecb66ba943a5d0e9380134320726).\n- Merged PR: [#962](https://github.com/ctxrs/ctx/pull/962).\n"
 }
