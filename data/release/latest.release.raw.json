@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 45023688,
       "digest": "sha256:bc44a8efd833a504358824f9de99b4d0c6d8652f8fa6fea3a504ebf7b54b37a9",
-      "download_count": 5,
+      "download_count": 6,
       "created_at": "2026-09-10T13:32:57Z",
       "updated_at": "2026-09-10T13:32:59Z",
       "browser_download_url": "https://github.com/ctxrs/ctx/releases/download/v1.4.1/ctx-linux-aarch64"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 51369808,
       "digest": "sha256:0ff35fcadd3f2edfc64c11a7f227d40ddf3aa980d1fe80a71111f9d81c002542",
-      "download_count": 5,
+      "download_count": 7,
       "created_at": "2026-09-10T13:32:57Z",
       "updated_at": "2026-09-10T13:32:59Z",
       "browser_download_url": "https://github.com/ctxrs/ctx/releases/download/v1.4.1/ctx-linux-x64"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 44856544,
       "digest": "sha256:83851bd15fbaca4c07b92d0b2b7873986070b1b9284e72f1709c0dcfabacb7de",
-      "download_count": 6,
+      "download_count": 7,
       "created_at": "2026-09-10T13:32:57Z",
       "updated_at": "2026-09-10T13:33:00Z",
       "browser_download_url": "https://github.com/ctxrs/ctx/releases/download/v1.4.1/ctx-macos-arm64"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 48596416,
       "digest": "sha256:a38fd6c3d0596674f37671acd00048e0728f8078f68a26fc8a80409e51ca7df2",
-      "download_count": 5,
+      "download_count": 6,
       "created_at": "2026-09-10T13:32:58Z",
       "updated_at": "2026-09-10T13:33:00Z",
       "browser_download_url": "https://github.com/ctxrs/ctx/releases/download/v1.4.1/ctx-macos-x64"
@@ -679,7 +679,7 @@
       "state": "uploaded",
       "size": 60340456,
       "digest": "sha256:d6a801771fb7a7245c3d491d3c1763c4181bdaa816fe10bfd41b21af7f8692e7",
-      "download_count": 4,
+      "download_count": 5,
       "created_at": "2026-09-10T13:33:00Z",
       "updated_at": "2026-09-10T13:33:03Z",
       "browser_download_url": "https://github.com/ctxrs/ctx/releases/download/v1.4.1/ctx-windows-x64.exe"
@@ -787,7 +787,7 @@
       "state": "uploaded",
       "size": 1901,
       "digest": "sha256:22ad234adac06fe130f400b393d3ee1aa9eb88b6c239aa55b3f7a795a4959eb3",
-      "download_count": 5,
+      "download_count": 7,
       "created_at": "2026-09-10T13:33:01Z",
       "updated_at": "2026-09-10T13:33:01Z",
       "browser_download_url": "https://github.com/ctxrs/ctx/releases/download/v1.4.1/SHA256SUMS"

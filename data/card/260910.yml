@@ -2,12 +2,12 @@ about:
   description: "Instant recall for coding agents. Search the history already on your machine. Git blame, but for agent sessions."
   license: Apache-2.0
   homepage: https://ctx.rs
-  head: 5b3fb3a
+  head: 9e54f79
   archived: false
   latestVersion: "v1.4.1"
   latestRelease: "v1.4.1"
   latestPrerelease: "v1.3.0"
-  collectedAt: 2026-09-10T16:05:31Z
+  collectedAt: 2026-09-10T21:24:07Z
 timeline:
   created: 2026-02-23
   lastCommit: 2026-09-10
@@ -20,82 +20,82 @@ popularity:
   fork: 70
   release: 38
   contributor: 20
-  pullRequest: 812
+  pullRequest: 813
   issue: 146
 language:
   Rust: 24284164
-  Python: 1633094
-  Shell: 947936
-  Starlark: 327244
+  Python: 1642098
+  Shell: 948899
+  Starlark: 328546
   Java: 241236
   C#: 217625
   PowerShell: 207782
   Swift: 195145
-  Go: 133071
+  Go: 133075
   JavaScript: 96346
   C: 17797
   TypeScript: 7083
   RenderScript: 2
-totalBytes: 28308525
+totalBytes: 28319798
 recent:
   last30d:
     since: 2026-08-11
     release: 15
-    mergedPR: 395
+    mergedPR: 396
     openPR: 4
-    closedIssue: 77
-    openIssue: 11
-    commit: 682
+    closedIssue: 78
+    openIssue: 10
+    commit: 683
   last60d:
     since: 2026-07-12
     release: 16
-    mergedPR: 633
+    mergedPR: 634
     openPR: 4
-    closedIssue: 119
-    openIssue: 11
-    commit: 2596
+    closedIssue: 120
+    openIssue: 10
+    commit: 2597
   last90d:
     since: 2026-06-12
     release: 38
-    mergedPR: 737
+    mergedPR: 738
     openPR: 5
-    closedIssue: 131
-    openIssue: 11
-    commit: 2858
+    closedIssue: 132
+    openIssue: 10
+    commit: 2859
   last180d:
     since: 2026-03-14
     release: 38
-    mergedPR: 737
+    mergedPR: 738
     openPR: 5
-    closedIssue: 135
-    openIssue: 11
-    commit: 2858
+    closedIssue: 136
+    openIssue: 10
+    commit: 2859
   last360d:
     since: 2025-09-15
     release: 38
-    mergedPR: 737
+    mergedPR: 738
     openPR: 5
-    closedIssue: 135
-    openIssue: 11
-    commit: 2858
+    closedIssue: 136
+    openIssue: 10
+    commit: 2859
   last720d:
     since: 2024-09-20
     release: 38
-    mergedPR: 737
+    mergedPR: 738
     openPR: 5
-    closedIssue: 135
-    openIssue: 11
-    commit: 3615
+    closedIssue: 136
+    openIssue: 10
+    commit: 3616
 total:
   release: 38
-  mergedPR: 737
+  mergedPR: 738
   openPR: 5
-  closedIssue: 135
-  openIssue: 11
-  commit: 3615
+  closedIssue: 136
+  openIssue: 10
+  commit: 3616
 ---
 path: /home/runner/.x-repo/github.com/ctxrs/ctx
-collectedAt: 2026-09-10T16:05:48Z
+collectedAt: 2026-09-10T21:24:18Z
 loc:
   Rust:
     code: 632329
@@ -103,13 +103,13 @@ loc:
     blanks: 45575
     files: 1896
   Python:
-    code: 37850
-    comments: 204
-    blanks: 4000
-    files: 120
+    code: 38008
+    comments: 207
+    blanks: 4025
+    files: 122
   Sh:
-    code: 22906
-    comments: 339
+    code: 22922
+    comments: 341
     blanks: 2007
     files: 124
   Json:
@@ -193,10 +193,10 @@ loc:
     blanks: 9
     files: 6
 total:
-  code: 730604
-  comments: 17425
-  blanks: 57120
-  files: 2511
+  code: 730778
+  comments: 17430
+  blanks: 57145
+  files: 2513
 ---
 
 ---
