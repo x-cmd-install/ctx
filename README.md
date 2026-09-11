@@ -14,13 +14,13 @@ x install ctx
 
 ## Code insight
 
-Total: **729,729** lines of code across **2295** files in the top 5 languages.
+Total: **729,757** lines of code across **2295** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Rust | 632,329 | 2,483 | 45,575 | 1896 |
-| Python | 38,008 | 207 | 4,025 | 122 |
-| Sh | 22,922 | 341 | 2,007 | 124 |
+| Python | 38,033 | 207 | 4,027 | 122 |
+| Sh | 22,925 | 343 | 2,007 | 124 |
 | Json | 5,921 | 0 | 0 | 102 |
 | Java | 5,643 | 74 | 937 | 51 |
 
@@ -38,22 +38,22 @@ Total: **729,729** lines of code across **2295** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 1,086 · **Forks**: 70 · **Open issues**: 146 · **Contributors**: 20
+- **Stars**: 1,086 · **Forks**: 70 · **Open issues**: 147 · **Contributors**: 20
 
 ## Totals (cumulative)
 
-- **Releases**: 38 · **Merged PRs**: 738 · **Open PRs**: 5 · **Closed issues**: 136 · **Open issues**: 10 · **Commits**: 3616
+- **Releases**: 38 · **Merged PRs**: 739 · **Open PRs**: 5 · **Closed issues**: 136 · **Open issues**: 11 · **Commits**: 3617
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 15 | 396 | 4 | 78 | 10 | 683 |
-| last60d | 2026-07-12 | 16 | 634 | 4 | 120 | 10 | 2597 |
-| 90d | 2026-06-12 | 38 | 738 | 5 | 132 | 10 | 2859 |
-| last180d | 2026-03-14 | 38 | 738 | 5 | 136 | 10 | 2859 |
-| 360d | 2025-09-15 | 38 | 738 | 5 | 136 | 10 | 2859 |
-| last720d | 2024-09-20 | 38 | 738 | 5 | 136 | 10 | 3616 |
+| 30d | 2026-08-12 | 15 | 362 | 4 | 78 | 11 | 684 |
+| last60d | 2026-07-13 | 16 | 623 | 4 | 117 | 11 | 2598 |
+| 90d | 2026-06-13 | 38 | 739 | 5 | 132 | 11 | 2860 |
+| last180d | 2026-03-15 | 38 | 739 | 5 | 136 | 11 | 2860 |
+| 360d | 2025-09-16 | 38 | 739 | 5 | 136 | 11 | 2860 |
+| last720d | 2024-09-21 | 38 | 739 | 5 | 136 | 11 | 3617 |
 
 ## Release assets
 
@@ -98,4 +98,4 @@ Install metadata for ctx lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T22:27:01Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T03:57:27Z._
