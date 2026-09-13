@@ -14,11 +14,11 @@ x install ctx
 
 ## Code insight
 
-Total: **729,757** lines of code across **2295** files in the top 5 languages.
+Total: **732,765** lines of code across **2311** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 632,329 | 2,483 | 45,575 | 1896 |
+| Rust | 635,324 | 2,545 | 45,739 | 1912 |
 | Python | 38,033 | 207 | 4,027 | 122 |
 | Sh | 22,925 | 343 | 2,007 | 124 |
 | Json | 5,921 | 0 | 0 | 102 |
@@ -32,28 +32,28 @@ Total: **729,757** lines of code across **2295** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v1.4.1` (2026-09-10)
-- **Last commit**: 2026-09-10
+- **Latest**: `v1.4.2` (2026-09-10)
+- **Last commit**: 2026-09-13
 - **Assets in release**: 21
 
 ## Popularity
 
-- **Stars**: 1,094 · **Forks**: 70 · **Open issues**: 147 · **Contributors**: 20
+- **Stars**: 1,105 · **Forks**: 70 · **Open issues**: 153 · **Contributors**: 20
 
 ## Totals (cumulative)
 
-- **Releases**: 38 · **Merged PRs**: 739 · **Open PRs**: 5 · **Closed issues**: 136 · **Open issues**: 11 · **Commits**: 3617
+- **Releases**: 39 · **Merged PRs**: 748 · **Open PRs**: 3 · **Closed issues**: 143 · **Open issues**: 10 · **Commits**: 3626
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-13 | 15 | 329 | 4 | 74 | 11 | 684 |
-| last60d | 2026-07-14 | 15 | 621 | 4 | 116 | 11 | 2598 |
-| 90d | 2026-06-14 | 38 | 739 | 5 | 132 | 11 | 2860 |
-| last180d | 2026-03-16 | 38 | 739 | 5 | 136 | 11 | 2860 |
-| 360d | 2025-09-17 | 38 | 739 | 5 | 136 | 11 | 2860 |
-| last720d | 2024-09-22 | 38 | 739 | 5 | 136 | 11 | 3617 |
+| 30d | 2026-08-14 | 16 | 318 | 2 | 80 | 10 | 358 |
+| last60d | 2026-07-15 | 16 | 630 | 2 | 123 | 10 | 2602 |
+| 90d | 2026-06-15 | 39 | 748 | 3 | 139 | 10 | 2869 |
+| last180d | 2026-03-17 | 39 | 748 | 3 | 143 | 10 | 2869 |
+| 360d | 2025-09-18 | 39 | 748 | 3 | 143 | 10 | 2869 |
+| last720d | 2024-09-23 | 39 | 748 | 3 | 143 | 10 | 3626 |
 
 ## Release assets
 
@@ -98,4 +98,4 @@ Install metadata for ctx lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260912.yml` · 2026-09-12T03:59:26Z._
+_Snapshot: `data/card/260913.yml` · 2026-09-13T04:09:24Z._
