@@ -4,7 +4,7 @@
 
 Instant recall for coding agents. Search the history already on your machine. Git blame, but for agent sessions.
 
-![ctx](https://repo.x-cmd.io/ctx.svg?lang=zh)
+[![x-cmd/install — ctx Code Quality Monitoring Repo Card](https://repo.x-cmd.io/ctx.svg?lang=zh)](https://x-cmd.com/install/ctx)
 
 ## 安装
 
@@ -38,22 +38,22 @@ x install ctx
 
 ## 流行度
 
-- **Star**: 1,124 · **Fork**: 70 · **开放 issue**: 162 · **贡献者**: 22
+- **Star**: 1,126 · **Fork**: 70 · **开放 issue**: 163 · **贡献者**: 22
 
 ## 累计统计
 
-- **发布数**: 46 · **已合并 PR**: 772 · **开放 PR**: 0 · **已关闭 issue**: 162 · **开放 issue**: 0 · **提交数**: 3650
+- **发布数**: 46 · **已合并 PR**: 772 · **开放 PR**: 0 · **已关闭 issue**: 162 · **开放 issue**: 1 · **提交数**: 3650
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 23 | 280 | 0 | 93 | 0 | 382 |
-| last60d | 2026-07-20 | 23 | 652 | 0 | 138 | 0 | 2626 |
-| 90d | 2026-06-20 | 46 | 772 | 0 | 158 | 0 | 2893 |
-| last180d | 2026-03-22 | 46 | 772 | 0 | 162 | 0 | 2893 |
-| 360d | 2025-09-23 | 46 | 772 | 0 | 162 | 0 | 2893 |
-| last720d | 2024-09-28 | 46 | 772 | 0 | 162 | 0 | 3650 |
+| 30d | 2026-08-21 | 22 | 261 | 0 | 75 | 1 | 267 |
+| last60d | 2026-07-22 | 23 | 652 | 0 | 138 | 1 | 2400 |
+| 90d | 2026-06-22 | 46 | 772 | 0 | 158 | 1 | 2890 |
+| last180d | 2026-03-24 | 46 | 772 | 0 | 162 | 1 | 2893 |
+| 360d | 2025-09-25 | 46 | 772 | 0 | 162 | 1 | 2893 |
+| last720d | 2024-09-30 | 46 | 772 | 0 | 162 | 1 | 3650 |
 
 ## Release 资产
 
@@ -90,4 +90,4 @@ ctx 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索�
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260918.yml` · 2026-09-18T04:03:50Z._
+_数据快照: `data/card/260920.yml` · 2026-09-20T04:20:12Z._
