@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 45376856,
       "digest": "sha256:8e1fe75290833fd3c720cb0f208627f23589f4a8f9ff86571ce8905d745b023b",
-      "download_count": 8,
+      "download_count": 15,
       "created_at": "2026-09-16T23:02:37Z",
       "updated_at": "2026-09-16T23:02:39Z",
       "browser_download_url": "https://github.com/ctxrs/ctx/releases/download/v1.4.10/ctx-linux-aarch64"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 51764016,
       "digest": "sha256:5fb71832a1243f0e1e99ecd795bb77af4119b487f2a261066bbbd2650c21cf00",
-      "download_count": 10,
+      "download_count": 23,
       "created_at": "2026-09-16T23:02:37Z",
       "updated_at": "2026-09-16T23:02:39Z",
       "browser_download_url": "https://github.com/ctxrs/ctx/releases/download/v1.4.10/ctx-linux-x64"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 45242192,
       "digest": "sha256:9b0bf57b99fe99b31404f4d4cca74391f7f97c0a020cb4128b6eb436c3cde568",
-      "download_count": 15,
+      "download_count": 35,
       "created_at": "2026-09-16T23:02:37Z",
       "updated_at": "2026-09-16T23:02:40Z",
       "browser_download_url": "https://github.com/ctxrs/ctx/releases/download/v1.4.10/ctx-macos-arm64"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 49007440,
       "digest": "sha256:3b1c297468b5ace81fb308aef3a3913776eac16bc4a2d320e37ebc233e84e2ad",
-      "download_count": 8,
+      "download_count": 12,
       "created_at": "2026-09-16T23:02:38Z",
       "updated_at": "2026-09-16T23:02:40Z",
       "browser_download_url": "https://github.com/ctxrs/ctx/releases/download/v1.4.10/ctx-macos-x64"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 10489616,
       "digest": "sha256:65b822a631678665b8a25af618a67845dee72a476f3926fe2b5d6ecada7dddae",
-      "download_count": 6,
+      "download_count": 7,
       "created_at": "2026-09-16T23:02:39Z",
       "updated_at": "2026-09-16T23:02:40Z",
       "browser_download_url": "https://github.com/ctxrs/ctx/releases/download/v1.4.10/ctx-onnxruntime-macos-arm64.tar.gz"
@@ -607,7 +607,7 @@
       "state": "uploaded",
       "size": 8038279,
       "digest": "sha256:32df39dc6adaa102257ca4517abed43648a0fa0f52164cdf5cab0e90fd4700f8",
-      "download_count": 5,
+      "download_count": 6,
       "created_at": "2026-09-16T23:02:40Z",
       "updated_at": "2026-09-16T23:02:40Z",
       "browser_download_url": "https://github.com/ctxrs/ctx/releases/download/v1.4.10/ctx-onnxruntime-macos-x64.tar.gz"
@@ -679,7 +679,7 @@
       "state": "uploaded",
       "size": 60669160,
       "digest": "sha256:db2c443b283fe6a00d98350192f01c6c2d87af4d5f5b916d893b47b8d275c6cc",
-      "download_count": 7,
+      "download_count": 14,
       "created_at": "2026-09-16T23:02:40Z",
       "updated_at": "2026-09-16T23:02:42Z",
       "browser_download_url": "https://github.com/ctxrs/ctx/releases/download/v1.4.10/ctx-windows-x64.exe"
@@ -751,7 +751,7 @@
       "state": "uploaded",
       "size": 969837,
       "digest": "sha256:1a8713342d402d316eb4a9d320de260d03f27c9c50bb7c25169c7cb125d15c2e",
-      "download_count": 6,
+      "download_count": 7,
       "created_at": "2026-09-16T23:02:40Z",
       "updated_at": "2026-09-16T23:02:41Z",
       "browser_download_url": "https://github.com/ctxrs/ctx/releases/download/v1.4.10/ctx-windows-x64.exe.third-party-notices.txt"
@@ -787,7 +787,7 @@
       "state": "uploaded",
       "size": 1901,
       "digest": "sha256:c1203bfbb130f01f9553ceb5bbbf7b2b0c63b7b2fcf08f0eff262c1191a8737c",
-      "download_count": 11,
+      "download_count": 16,
       "created_at": "2026-09-16T23:02:41Z",
       "updated_at": "2026-09-16T23:02:41Z",
       "browser_download_url": "https://github.com/ctxrs/ctx/releases/download/v1.4.10/SHA256SUMS"
