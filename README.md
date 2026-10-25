@@ -38,22 +38,22 @@ Total: **1,076,269** lines of code across **3239** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 1,165 · **Forks**: 76 · **Open issues**: 195 · **Contributors**: 23
+- **Stars**: 1,167 · **Forks**: 76 · **Open issues**: 196 · **Contributors**: 23
 
 ## Totals (cumulative)
 
-- **Releases**: 73 · **Merged PRs**: 850 · **Open PRs**: 3 · **Closed issues**: 188 · **Open issues**: 7 · **Commits**: 3724
+- **Releases**: 73 · **Merged PRs**: 850 · **Open PRs**: 4 · **Closed issues**: 188 · **Open issues**: 8 · **Commits**: 3724
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-24 | 21 | 39 | 3 | 16 | 7 | 34 |
-| last60d | 2026-08-25 | 47 | 311 | 3 | 91 | 7 | 401 |
-| 90d | 2026-07-26 | 50 | 730 | 3 | 164 | 7 | 2700 |
-| last180d | 2026-04-27 | 73 | 850 | 3 | 185 | 7 | 2967 |
-| 360d | 2025-10-29 | 73 | 850 | 3 | 188 | 7 | 2967 |
-| last720d | 2024-11-03 | 73 | 850 | 3 | 188 | 7 | 3724 |
+| 30d | 2026-09-25 | 19 | 33 | 4 | 16 | 8 | 4 |
+| last60d | 2026-08-26 | 46 | 264 | 4 | 86 | 8 | 183 |
+| 90d | 2026-07-27 | 50 | 720 | 4 | 163 | 8 | 1577 |
+| last180d | 2026-04-28 | 73 | 850 | 4 | 185 | 8 | 2967 |
+| 360d | 2025-10-30 | 73 | 850 | 4 | 188 | 8 | 2967 |
+| last720d | 2024-11-04 | 73 | 850 | 4 | 188 | 8 | 3724 |
 
 ## Release assets
 
@@ -94,4 +94,4 @@ Install metadata for ctx lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261024.yml` · 2026-10-24T04:02:09Z._
+_Snapshot: `data/card/261025.yml` · 2026-10-25T04:02:44Z._
