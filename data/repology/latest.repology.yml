@@ -1,9 +1,31 @@
+- repo: nix_stable_25_11
+  srcname: ctx
+  visiblename: ctx-unstable
+  version: "2023-09-03"
+  origversion: null
+  status: untrusted
+  summary: Vector graphics terminal
+  maintainers:
+    - fallback-mnt-nix@repology
+  licenses:
+    - GPL-3.0-or-later
+- repo: nix_stable_25_05
+  srcname: ctx
+  visiblename: ctx-unstable
+  version: "2023-09-03"
+  origversion: null
+  status: untrusted
+  summary: Vector graphics terminal
+  maintainers:
+    - fallback-mnt-nix@repology
+  licenses:
+    - GPL-3.0-or-later
 - repo: aur
   srcname: ctx
   binname: ctx
   visiblename: ctx
-  version: 0.1.17
-  origversion: 0.1.17-1
+  version: 0.1.18
+  origversion: 0.1.18-1
   status: newest
   summary: Multi-environment context switcher for cloud, Kubernetes, VPN, and SSH tunnels
   maintainers:
@@ -14,8 +36,8 @@
   srcname: ctx-bin
   binname: ctx-bin
   visiblename: ctx-bin
-  version: 0.1.17
-  origversion: 0.1.17-1
+  version: 0.1.18
+  origversion: 0.1.18-1
   status: newest
   summary: Multi-environment context switcher for cloud, Kubernetes, VPN, and SSH tunnels
   maintainers:
@@ -42,28 +64,6 @@
   summary: Vector graphics terminal
   maintainers:
     - torres.anderson.85@protonmail.com
-  licenses:
-    - GPL-3.0-or-later
-- repo: nix_stable_25_05
-  srcname: ctx
-  visiblename: ctx-unstable
-  version: "2023-09-03"
-  origversion: null
-  status: untrusted
-  summary: Vector graphics terminal
-  maintainers:
-    - fallback-mnt-nix@repology
-  licenses:
-    - GPL-3.0-or-later
-- repo: nix_stable_25_11
-  srcname: ctx
-  visiblename: ctx-unstable
-  version: "2023-09-03"
-  origversion: null
-  status: untrusted
-  summary: Vector graphics terminal
-  maintainers:
-    - fallback-mnt-nix@repology
   licenses:
     - GPL-3.0-or-later
 - repo: nix_stable_26_05
