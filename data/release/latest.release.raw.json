@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 188713408,
       "digest": "sha256:bed352e04967cfc9a782e23ca810e6a1f280cb564d8b89b112f97d84e44c137e",
-      "download_count": 12,
+      "download_count": 13,
       "created_at": "2026-10-25T13:12:14Z",
       "updated_at": "2026-10-25T13:12:22Z",
       "browser_download_url": "https://github.com/ctxrs/ctx/releases/download/v2.3.0/ctx-linux-aarch64"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 198679792,
       "digest": "sha256:8bc22cb45c7fa9acc2049a3c741925939a3da2801ef7d3b6e9c9c4faeb2fcc8d",
-      "download_count": 34,
+      "download_count": 108,
       "created_at": "2026-10-25T13:12:14Z",
       "updated_at": "2026-10-25T13:12:25Z",
       "browser_download_url": "https://github.com/ctxrs/ctx/releases/download/v2.3.0/ctx-linux-x64"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 188128272,
       "digest": "sha256:58853117e62ac46378de5c67a3bec47b520ed8fbb809898c485ed4b50d4ca640",
-      "download_count": 30,
+      "download_count": 38,
       "created_at": "2026-10-25T13:12:14Z",
       "updated_at": "2026-10-25T13:12:25Z",
       "browser_download_url": "https://github.com/ctxrs/ctx/releases/download/v2.3.0/ctx-macos-arm64"
@@ -679,7 +679,7 @@
       "state": "uploaded",
       "size": 214000872,
       "digest": "sha256:9c96459dcdb0e78d7cbea50f6f1b4c08c8c3c8a75a33b082de02cbefc139ee49",
-      "download_count": 11,
+      "download_count": 13,
       "created_at": "2026-10-25T13:12:22Z",
       "updated_at": "2026-10-25T13:12:29Z",
       "browser_download_url": "https://github.com/ctxrs/ctx/releases/download/v2.3.0/ctx-windows-x64.exe"
@@ -787,7 +787,7 @@
       "state": "uploaded",
       "size": 1901,
       "digest": "sha256:3d0966b2d166e7da11119511a27373eee44c98542d4451d3b10bebe1c5ef030b",
-      "download_count": 14,
+      "download_count": 16,
       "created_at": "2026-10-25T13:12:24Z",
       "updated_at": "2026-10-25T13:12:24Z",
       "browser_download_url": "https://github.com/ctxrs/ctx/releases/download/v2.3.0/SHA256SUMS"
