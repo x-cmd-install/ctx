@@ -48,12 +48,12 @@ Total: **1,081,487** lines of code across **3267** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-02 | 4 | 13 | 4 | 8 | 11 | 12 |
-| last60d | 2026-09-02 | 41 | 175 | 4 | 63 | 11 | 124 |
-| 90d | 2026-08-03 | 51 | 676 | 4 | 147 | 11 | 1254 |
-| last180d | 2026-05-05 | 74 | 862 | 4 | 192 | 11 | 2979 |
-| 360d | 2025-11-06 | 74 | 862 | 4 | 195 | 11 | 2979 |
-| last720d | 2024-11-11 | 74 | 862 | 4 | 195 | 11 | 3736 |
+| 30d | 2026-10-03 | 2 | 13 | 4 | 8 | 11 | 12 |
+| last60d | 2026-09-03 | 40 | 164 | 4 | 62 | 11 | 124 |
+| 90d | 2026-08-04 | 51 | 662 | 4 | 145 | 11 | 1254 |
+| last180d | 2026-05-06 | 74 | 862 | 4 | 192 | 11 | 2979 |
+| 360d | 2025-11-07 | 74 | 862 | 4 | 195 | 11 | 2979 |
+| last720d | 2024-11-12 | 74 | 862 | 4 | 195 | 11 | 3736 |
 
 ## Release assets
 
@@ -94,4 +94,4 @@ Install metadata for ctx lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261101.yml` · 2026-11-01T05:22:09Z._
+_Snapshot: `data/card/261102.yml` · 2026-11-02T05:20:37Z._
