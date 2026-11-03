@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 188713408,
       "digest": "sha256:bed352e04967cfc9a782e23ca810e6a1f280cb564d8b89b112f97d84e44c137e",
-      "download_count": 18,
+      "download_count": 19,
       "created_at": "2026-10-25T13:12:14Z",
       "updated_at": "2026-10-25T13:12:22Z",
       "browser_download_url": "https://github.com/ctxrs/ctx/releases/download/v2.3.0/ctx-linux-aarch64"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 816911,
       "digest": "sha256:1b0e291712677d024ab14b2e523411dfeea02a46f6d8768b830d32a248606080",
-      "download_count": 6,
+      "download_count": 7,
       "created_at": "2026-10-25T13:12:14Z",
       "updated_at": "2026-10-25T13:12:14Z",
       "browser_download_url": "https://github.com/ctxrs/ctx/releases/download/v2.3.0/ctx-linux-aarch64.cdx.json"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 1437351,
       "digest": "sha256:e6afd4da06f99652ddf5cdaa23c5c1453bdf494ddf4f8e71893e7719d939ec66",
-      "download_count": 7,
+      "download_count": 8,
       "created_at": "2026-10-25T13:12:14Z",
       "updated_at": "2026-10-25T13:12:14Z",
       "browser_download_url": "https://github.com/ctxrs/ctx/releases/download/v2.3.0/ctx-linux-aarch64.third-party-notices.txt"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 198679792,
       "digest": "sha256:8bc22cb45c7fa9acc2049a3c741925939a3da2801ef7d3b6e9c9c4faeb2fcc8d",
-      "download_count": 166,
+      "download_count": 175,
       "created_at": "2026-10-25T13:12:14Z",
       "updated_at": "2026-10-25T13:12:25Z",
       "browser_download_url": "https://github.com/ctxrs/ctx/releases/download/v2.3.0/ctx-linux-x64"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 820359,
       "digest": "sha256:6d1b3a9f400216b4907e9f9f5b7e8538c3972946878649d4a00dfc60c09af7d4",
-      "download_count": 6,
+      "download_count": 7,
       "created_at": "2026-10-25T13:12:14Z",
       "updated_at": "2026-10-25T13:12:14Z",
       "browser_download_url": "https://github.com/ctxrs/ctx/releases/download/v2.3.0/ctx-linux-x64.cdx.json"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 1441839,
       "digest": "sha256:b579488e7378a8b91bce61fb0f4565958dca7454ce05214d8a6b716057527535",
-      "download_count": 7,
+      "download_count": 8,
       "created_at": "2026-10-25T13:12:14Z",
       "updated_at": "2026-10-25T13:12:14Z",
       "browser_download_url": "https://github.com/ctxrs/ctx/releases/download/v2.3.0/ctx-linux-x64.third-party-notices.txt"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 188128272,
       "digest": "sha256:58853117e62ac46378de5c67a3bec47b520ed8fbb809898c485ed4b50d4ca640",
-      "download_count": 55,
+      "download_count": 64,
       "created_at": "2026-10-25T13:12:14Z",
       "updated_at": "2026-10-25T13:12:25Z",
       "browser_download_url": "https://github.com/ctxrs/ctx/releases/download/v2.3.0/ctx-macos-arm64"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 836080,
       "digest": "sha256:cce22301b2b805910eaf1213ae797b3086507046442f588d50196d5e560eebf6",
-      "download_count": 6,
+      "download_count": 7,
       "created_at": "2026-10-25T13:12:14Z",
       "updated_at": "2026-10-25T13:12:14Z",
       "browser_download_url": "https://github.com/ctxrs/ctx/releases/download/v2.3.0/ctx-macos-arm64.cdx.json"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 1457927,
       "digest": "sha256:0ec74543bc129b77e9bc4337cec5e789c7fb4e0fb56175e816d7ce65dc09542b",
-      "download_count": 7,
+      "download_count": 8,
       "created_at": "2026-10-25T13:12:15Z",
       "updated_at": "2026-10-25T13:12:15Z",
       "browser_download_url": "https://github.com/ctxrs/ctx/releases/download/v2.3.0/ctx-macos-arm64.third-party-notices.txt"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 839530,
       "digest": "sha256:4fb7d44a5d722f277f48dbb453921c93370312e9fedd99c3f3c23f898092d64c",
-      "download_count": 6,
+      "download_count": 7,
       "created_at": "2026-10-25T13:12:15Z",
       "updated_at": "2026-10-25T13:12:16Z",
       "browser_download_url": "https://github.com/ctxrs/ctx/releases/download/v2.3.0/ctx-macos-x64.cdx.json"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 1462417,
       "digest": "sha256:df2395f1813635dd303e7f2534abdbf7d0543998c2e1e9345f68ef0c2af8ca01",
-      "download_count": 7,
+      "download_count": 8,
       "created_at": "2026-10-25T13:12:16Z",
       "updated_at": "2026-10-25T13:12:16Z",
       "browser_download_url": "https://github.com/ctxrs/ctx/releases/download/v2.3.0/ctx-macos-x64.third-party-notices.txt"
@@ -679,7 +679,7 @@
       "state": "uploaded",
       "size": 214000872,
       "digest": "sha256:9c96459dcdb0e78d7cbea50f6f1b4c08c8c3c8a75a33b082de02cbefc139ee49",
-      "download_count": 20,
+      "download_count": 22,
       "created_at": "2026-10-25T13:12:22Z",
       "updated_at": "2026-10-25T13:12:29Z",
       "browser_download_url": "https://github.com/ctxrs/ctx/releases/download/v2.3.0/ctx-windows-x64.exe"
@@ -715,7 +715,7 @@
       "state": "uploaded",
       "size": 832155,
       "digest": "sha256:d2d22e6cefa08e1611d66b9c444c14c432f7f100316a0db867b33c97bffa0d5b",
-      "download_count": 6,
+      "download_count": 7,
       "created_at": "2026-10-25T13:12:23Z",
       "updated_at": "2026-10-25T13:12:23Z",
       "browser_download_url": "https://github.com/ctxrs/ctx/releases/download/v2.3.0/ctx-windows-x64.exe.cdx.json"
@@ -751,7 +751,7 @@
       "state": "uploaded",
       "size": 1435004,
       "digest": "sha256:45cc744ba50c0ba142793f224243e6d80007c6f978d7eac9cae7813081c09d72",
-      "download_count": 8,
+      "download_count": 9,
       "created_at": "2026-10-25T13:12:23Z",
       "updated_at": "2026-10-25T13:12:24Z",
       "browser_download_url": "https://github.com/ctxrs/ctx/releases/download/v2.3.0/ctx-windows-x64.exe.third-party-notices.txt"
@@ -787,7 +787,7 @@
       "state": "uploaded",
       "size": 1901,
       "digest": "sha256:3d0966b2d166e7da11119511a27373eee44c98542d4451d3b10bebe1c5ef030b",
-      "download_count": 22,
+      "download_count": 26,
       "created_at": "2026-10-25T13:12:24Z",
       "updated_at": "2026-10-25T13:12:24Z",
       "browser_download_url": "https://github.com/ctxrs/ctx/releases/download/v2.3.0/SHA256SUMS"
