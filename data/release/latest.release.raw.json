@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 189095584,
       "digest": "sha256:6ee85d3da36bf6d72de0a1011147910e439bba7c5836db52dfefd04f1feb1b76",
-      "download_count": 5,
+      "download_count": 6,
       "created_at": "2026-11-05T08:57:29Z",
       "updated_at": "2026-11-05T08:57:38Z",
       "browser_download_url": "https://github.com/ctxrs/ctx/releases/download/v2.4.1/ctx-linux-aarch64"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 199048896,
       "digest": "sha256:ace96fce19d727d55d89d5e3a02920b72d8e7d3ab57a1c9637621ad481d96221",
-      "download_count": 5,
+      "download_count": 35,
       "created_at": "2026-11-05T08:57:29Z",
       "updated_at": "2026-11-05T08:57:38Z",
       "browser_download_url": "https://github.com/ctxrs/ctx/releases/download/v2.4.1/ctx-linux-x64"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 188444368,
       "digest": "sha256:3876f1c197ac2a6dc74ae0020a4aa3a38dd3cf055c857142d9e4fddcfbd8593d",
-      "download_count": 13,
+      "download_count": 18,
       "created_at": "2026-11-05T08:57:29Z",
       "updated_at": "2026-11-05T08:57:41Z",
       "browser_download_url": "https://github.com/ctxrs/ctx/releases/download/v2.4.1/ctx-macos-arm64"
@@ -679,7 +679,7 @@
       "state": "uploaded",
       "size": 214437608,
       "digest": "sha256:6766d6470c3ce8581e6eedd4d2ed495e3e597108a7477784ead6f2f1281de057",
-      "download_count": 3,
+      "download_count": 4,
       "created_at": "2026-11-05T08:57:38Z",
       "updated_at": "2026-11-05T08:57:45Z",
       "browser_download_url": "https://github.com/ctxrs/ctx/releases/download/v2.4.1/ctx-windows-x64.exe"
@@ -787,7 +787,7 @@
       "state": "uploaded",
       "size": 1901,
       "digest": "sha256:3eaded5fccf0eaddd444bf6d3168692133953209107848f5b12b16eec0f1f04d",
-      "download_count": 4,
+      "download_count": 6,
       "created_at": "2026-11-05T08:57:39Z",
       "updated_at": "2026-11-05T08:57:39Z",
       "browser_download_url": "https://github.com/ctxrs/ctx/releases/download/v2.4.1/SHA256SUMS"
