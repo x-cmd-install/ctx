@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 189095584,
       "digest": "sha256:6ee85d3da36bf6d72de0a1011147910e439bba7c5836db52dfefd04f1feb1b76",
-      "download_count": 18,
+      "download_count": 22,
       "created_at": "2026-11-05T08:57:29Z",
       "updated_at": "2026-11-05T08:57:38Z",
       "browser_download_url": "https://github.com/ctxrs/ctx/releases/download/v2.4.1/ctx-linux-aarch64"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 199048896,
       "digest": "sha256:ace96fce19d727d55d89d5e3a02920b72d8e7d3ab57a1c9637621ad481d96221",
-      "download_count": 201,
+      "download_count": 207,
       "created_at": "2026-11-05T08:57:29Z",
       "updated_at": "2026-11-05T08:57:38Z",
       "browser_download_url": "https://github.com/ctxrs/ctx/releases/download/v2.4.1/ctx-linux-x64"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 188444368,
       "digest": "sha256:3876f1c197ac2a6dc74ae0020a4aa3a38dd3cf055c857142d9e4fddcfbd8593d",
-      "download_count": 48,
+      "download_count": 52,
       "created_at": "2026-11-05T08:57:29Z",
       "updated_at": "2026-11-05T08:57:41Z",
       "browser_download_url": "https://github.com/ctxrs/ctx/releases/download/v2.4.1/ctx-macos-arm64"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 834122,
       "digest": "sha256:9077c2e547799e1b81df1300b763f840392f4b8a133f73bd4af7d0b05a08b655",
-      "download_count": 1,
+      "download_count": 2,
       "created_at": "2026-11-05T08:57:29Z",
       "updated_at": "2026-11-05T08:57:30Z",
       "browser_download_url": "https://github.com/ctxrs/ctx/releases/download/v2.4.1/ctx-macos-arm64.cdx.json"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 7597022,
       "digest": "sha256:75460527eb2f25ed3044cb45b2527f6af2e5165f77c6e82722bdc0c323bb8279",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2026-11-05T08:57:32Z",
       "updated_at": "2026-11-05T08:57:33Z",
       "browser_download_url": "https://github.com/ctxrs/ctx/releases/download/v2.4.1/ctx-onnxruntime-linux-aarch64.tar.gz"
@@ -787,7 +787,7 @@
       "state": "uploaded",
       "size": 1901,
       "digest": "sha256:3eaded5fccf0eaddd444bf6d3168692133953209107848f5b12b16eec0f1f04d",
-      "download_count": 20,
+      "download_count": 22,
       "created_at": "2026-11-05T08:57:39Z",
       "updated_at": "2026-11-05T08:57:39Z",
       "browser_download_url": "https://github.com/ctxrs/ctx/releases/download/v2.4.1/SHA256SUMS"
