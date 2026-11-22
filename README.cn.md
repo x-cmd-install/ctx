@@ -14,11 +14,11 @@ x install ctx
 
 ## 代码洞察
 
-合计: **1,112,957** 行代码（覆盖前 5 种语言、共 **3355** 个文件）。
+合计: **1,124,592** 行代码（覆盖前 5 种语言、共 **3368** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Rust | 916,654 | 5,987 | 57,918 | 2817 |
+| Rust | 928,269 | 6,193 | 58,684 | 2830 |
 | JavaScript | 45,660 | 248 | 1,944 | 159 |
 | Python | 45,229 | 351 | 4,690 | 148 |
 | Sh | 26,922 | 427 | 2,245 | 133 |
@@ -32,54 +32,54 @@ x install ctx
 
 ## 发布
 
-- **最新版本**: `v2.4.1` (2026-11-05)
+- **最新版本**: `v2.5.0` (2026-11-21)
 - **最近提交**: 2026-11-21
 - **Release 含资产**: 21 个
 
 ## 流行度
 
-- **Star**: 1,188 · **Fork**: 81 · **开放 issue**: 222 · **贡献者**: 26
+- **Star**: 1,188 · **Fork**: 82 · **开放 issue**: 222 · **贡献者**: 26
 
 ## 累计统计
 
-- **发布数**: 76 · **已合并 PR**: 905 · **开放 PR**: 0 · **已关闭 issue**: 215 · **开放 issue**: 7 · **提交数**: 3804
+- **发布数**: 77 · **已合并 PR**: 913 · **开放 PR**: 1 · **已关闭 issue**: 219 · **开放 issue**: 3 · **提交数**: 3819
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-22 | 3 | 52 | 0 | 20 | 7 | 79 |
-| last60d | 2026-09-22 | 27 | 109 | 0 | 44 | 7 | 129 |
-| 90d | 2026-08-23 | 50 | 391 | 0 | 121 | 7 | 518 |
-| last180d | 2026-05-25 | 76 | 905 | 0 | 212 | 7 | 3046 |
-| 360d | 2025-11-26 | 76 | 905 | 0 | 215 | 7 | 3046 |
-| last720d | 2024-12-01 | 76 | 905 | 0 | 215 | 7 | 3804 |
+| 30d | 2026-10-23 | 4 | 60 | 1 | 24 | 3 | 82 |
+| last60d | 2026-09-23 | 25 | 117 | 1 | 47 | 3 | 107 |
+| 90d | 2026-08-24 | 51 | 388 | 1 | 123 | 3 | 314 |
+| last180d | 2026-05-26 | 77 | 913 | 1 | 216 | 3 | 3061 |
+| 360d | 2025-11-27 | 77 | 913 | 1 | 219 | 3 | 3061 |
+| last720d | 2024-12-02 | 77 | 913 | 1 | 219 | 3 | 3819 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [ctx-linux-aarch64](https://github.com/ctxrs/ctx/releases/download/v2.4.1/ctx-linux-aarch64) | 180.3 MiB | `native/linux/arm64` |
-| [ctx-linux-aarch64.cdx.json](https://github.com/ctxrs/ctx/releases/download/v2.4.1/ctx-linux-aarch64.cdx.json) | 795.9 KiB | `native/linux/arm64` |
-| [ctx-linux-aarch64.third-party-notices.txt](https://github.com/ctxrs/ctx/releases/download/v2.4.1/ctx-linux-aarch64.third-party-notices.txt) | 1.4 MiB | `native/linux/arm64` |
-| [ctx-linux-x64](https://github.com/ctxrs/ctx/releases/download/v2.4.1/ctx-linux-x64) | 189.8 MiB | `other` |
-| [ctx-linux-x64.cdx.json](https://github.com/ctxrs/ctx/releases/download/v2.4.1/ctx-linux-x64.cdx.json) | 799.2 KiB | `other` |
-| [ctx-linux-x64.third-party-notices.txt](https://github.com/ctxrs/ctx/releases/download/v2.4.1/ctx-linux-x64.third-party-notices.txt) | 1.4 MiB | `other` |
-| [ctx-macos-arm64](https://github.com/ctxrs/ctx/releases/download/v2.4.1/ctx-macos-arm64) | 179.7 MiB | `native/darwin/arm64` |
-| [ctx-macos-arm64.cdx.json](https://github.com/ctxrs/ctx/releases/download/v2.4.1/ctx-macos-arm64.cdx.json) | 814.6 KiB | `native/darwin/arm64` |
-| [ctx-macos-arm64.third-party-notices.txt](https://github.com/ctxrs/ctx/releases/download/v2.4.1/ctx-macos-arm64.third-party-notices.txt) | 1.4 MiB | `native/darwin/arm64` |
-| [ctx-macos-x64](https://github.com/ctxrs/ctx/releases/download/v2.4.1/ctx-macos-x64) | 185.1 MiB | `native/darwin/x64` |
-| [ctx-macos-x64.cdx.json](https://github.com/ctxrs/ctx/releases/download/v2.4.1/ctx-macos-x64.cdx.json) | 817.9 KiB | `native/darwin/x64` |
-| [ctx-macos-x64.third-party-notices.txt](https://github.com/ctxrs/ctx/releases/download/v2.4.1/ctx-macos-x64.third-party-notices.txt) | 1.4 MiB | `native/darwin/x64` |
-| [ctx-onnxruntime-linux-aarch64.tar.gz](https://github.com/ctxrs/ctx/releases/download/v2.4.1/ctx-onnxruntime-linux-aarch64.tar.gz) | 7.2 MiB | `native/linux/arm64` |
-| [ctx-onnxruntime-linux-x64.tar.gz](https://github.com/ctxrs/ctx/releases/download/v2.4.1/ctx-onnxruntime-linux-x64.tar.gz) | 8.2 MiB | `native/unknown` |
-| [ctx-onnxruntime-macos-arm64.tar.gz](https://github.com/ctxrs/ctx/releases/download/v2.4.1/ctx-onnxruntime-macos-arm64.tar.gz) | 10.0 MiB | `native/darwin/arm64` |
-| [ctx-onnxruntime-macos-x64.tar.gz](https://github.com/ctxrs/ctx/releases/download/v2.4.1/ctx-onnxruntime-macos-x64.tar.gz) | 7.7 MiB | `native/darwin/x64` |
-| [ctx-onnxruntime-windows-x64.zip](https://github.com/ctxrs/ctx/releases/download/v2.4.1/ctx-onnxruntime-windows-x64.zip) | 5.7 MiB | `native/win/x64` |
-| [ctx-windows-x64.exe](https://github.com/ctxrs/ctx/releases/download/v2.4.1/ctx-windows-x64.exe) | 204.5 MiB | `native/win/x64` |
-| [ctx-windows-x64.exe.cdx.json](https://github.com/ctxrs/ctx/releases/download/v2.4.1/ctx-windows-x64.exe.cdx.json) | 810.7 KiB | `native/win/x64` |
-| [ctx-windows-x64.exe.third-party-notices.txt](https://github.com/ctxrs/ctx/releases/download/v2.4.1/ctx-windows-x64.exe.third-party-notices.txt) | 1.4 MiB | `native/win/x64` |
-| [SHA256SUMS](https://github.com/ctxrs/ctx/releases/download/v2.4.1/SHA256SUMS) | 1.9 KiB | `other` |
+| [ctx-linux-aarch64](https://github.com/ctxrs/ctx/releases/download/v2.5.0/ctx-linux-aarch64) | 182.1 MiB | `native/linux/arm64` |
+| [ctx-linux-aarch64.cdx.json](https://github.com/ctxrs/ctx/releases/download/v2.5.0/ctx-linux-aarch64.cdx.json) | 799.5 KiB | `native/linux/arm64` |
+| [ctx-linux-aarch64.third-party-notices.txt](https://github.com/ctxrs/ctx/releases/download/v2.5.0/ctx-linux-aarch64.third-party-notices.txt) | 1.4 MiB | `native/linux/arm64` |
+| [ctx-linux-x64](https://github.com/ctxrs/ctx/releases/download/v2.5.0/ctx-linux-x64) | 191.8 MiB | `other` |
+| [ctx-linux-x64.cdx.json](https://github.com/ctxrs/ctx/releases/download/v2.5.0/ctx-linux-x64.cdx.json) | 802.8 KiB | `other` |
+| [ctx-linux-x64.third-party-notices.txt](https://github.com/ctxrs/ctx/releases/download/v2.5.0/ctx-linux-x64.third-party-notices.txt) | 1.4 MiB | `other` |
+| [ctx-macos-arm64](https://github.com/ctxrs/ctx/releases/download/v2.5.0/ctx-macos-arm64) | 181.5 MiB | `native/darwin/arm64` |
+| [ctx-macos-arm64.cdx.json](https://github.com/ctxrs/ctx/releases/download/v2.5.0/ctx-macos-arm64.cdx.json) | 818.2 KiB | `native/darwin/arm64` |
+| [ctx-macos-arm64.third-party-notices.txt](https://github.com/ctxrs/ctx/releases/download/v2.5.0/ctx-macos-arm64.third-party-notices.txt) | 1.4 MiB | `native/darwin/arm64` |
+| [ctx-macos-x64](https://github.com/ctxrs/ctx/releases/download/v2.5.0/ctx-macos-x64) | 186.9 MiB | `native/darwin/x64` |
+| [ctx-macos-x64.cdx.json](https://github.com/ctxrs/ctx/releases/download/v2.5.0/ctx-macos-x64.cdx.json) | 821.5 KiB | `native/darwin/x64` |
+| [ctx-macos-x64.third-party-notices.txt](https://github.com/ctxrs/ctx/releases/download/v2.5.0/ctx-macos-x64.third-party-notices.txt) | 1.4 MiB | `native/darwin/x64` |
+| [ctx-onnxruntime-linux-aarch64.tar.gz](https://github.com/ctxrs/ctx/releases/download/v2.5.0/ctx-onnxruntime-linux-aarch64.tar.gz) | 7.2 MiB | `native/linux/arm64` |
+| [ctx-onnxruntime-linux-x64.tar.gz](https://github.com/ctxrs/ctx/releases/download/v2.5.0/ctx-onnxruntime-linux-x64.tar.gz) | 8.2 MiB | `native/unknown` |
+| [ctx-onnxruntime-macos-arm64.tar.gz](https://github.com/ctxrs/ctx/releases/download/v2.5.0/ctx-onnxruntime-macos-arm64.tar.gz) | 10.0 MiB | `native/darwin/arm64` |
+| [ctx-onnxruntime-macos-x64.tar.gz](https://github.com/ctxrs/ctx/releases/download/v2.5.0/ctx-onnxruntime-macos-x64.tar.gz) | 7.7 MiB | `native/darwin/x64` |
+| [ctx-onnxruntime-windows-x64.zip](https://github.com/ctxrs/ctx/releases/download/v2.5.0/ctx-onnxruntime-windows-x64.zip) | 5.7 MiB | `native/win/x64` |
+| [ctx-windows-x64.exe](https://github.com/ctxrs/ctx/releases/download/v2.5.0/ctx-windows-x64.exe) | 206.6 MiB | `native/win/x64` |
+| [ctx-windows-x64.exe.cdx.json](https://github.com/ctxrs/ctx/releases/download/v2.5.0/ctx-windows-x64.exe.cdx.json) | 814.3 KiB | `native/win/x64` |
+| [ctx-windows-x64.exe.third-party-notices.txt](https://github.com/ctxrs/ctx/releases/download/v2.5.0/ctx-windows-x64.exe.third-party-notices.txt) | 1.4 MiB | `native/win/x64` |
+| [SHA256SUMS](https://github.com/ctxrs/ctx/releases/download/v2.5.0/SHA256SUMS) | 1.9 KiB | `other` |
 
 ## 发行版状态
 
@@ -94,4 +94,4 @@ ctx 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索�
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261121.yml` · 2026-11-21T06:28:48Z._
+_数据快照: `data/card/261122.yml` · 2026-11-22T05:58:26Z._
