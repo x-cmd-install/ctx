@@ -38,22 +38,22 @@ Total: **1,124,592** lines of code across **3368** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 1,194 · **Forks**: 82 · **Open issues**: 230 · **Contributors**: 26
+- **Stars**: 1,194 · **Forks**: 83 · **Open issues**: 230 · **Contributors**: 26
 
 ## Totals (cumulative)
 
-- **Releases**: 77 · **Merged PRs**: 913 · **Open PRs**: 5 · **Closed issues**: 218 · **Open issues**: 12 · **Commits**: 3819
+- **Releases**: 77 · **Merged PRs**: 913 · **Open PRs**: 7 · **Closed issues**: 218 · **Open issues**: 12 · **Commits**: 3819
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-28 | 3 | 48 | 5 | 15 | 12 | 82 |
-| last60d | 2026-09-28 | 18 | 87 | 5 | 45 | 12 | 107 |
-| 90d | 2026-08-29 | 46 | 272 | 5 | 96 | 12 | 314 |
-| last180d | 2026-05-31 | 77 | 913 | 5 | 215 | 12 | 3061 |
-| 360d | 2025-12-02 | 77 | 913 | 5 | 218 | 12 | 3061 |
-| last720d | 2024-12-07 | 77 | 913 | 5 | 218 | 12 | 3819 |
+| 30d | 2026-10-29 | 3 | 48 | 7 | 15 | 12 | 82 |
+| last60d | 2026-09-29 | 17 | 79 | 7 | 41 | 12 | 107 |
+| 90d | 2026-08-30 | 44 | 269 | 7 | 95 | 12 | 314 |
+| last180d | 2026-06-01 | 77 | 913 | 7 | 215 | 12 | 3061 |
+| 360d | 2025-12-03 | 77 | 913 | 7 | 218 | 12 | 3061 |
+| last720d | 2024-12-08 | 77 | 913 | 7 | 218 | 12 | 3819 |
 
 ## Release assets
 
@@ -81,10 +81,6 @@ Total: **1,124,592** lines of code across **3368** files in the top 5 languages.
 | [ctx-windows-x64.exe.third-party-notices.txt](https://github.com/ctxrs/ctx/releases/download/v2.5.0/ctx-windows-x64.exe.third-party-notices.txt) | 1.4 MiB | `native/win/x64` |
 | [SHA256SUMS](https://github.com/ctxrs/ctx/releases/download/v2.5.0/SHA256SUMS) | 1.9 KiB | `other` |
 
-## Distribution status
-
-Reported by **7** distros on [repology.org](https://repology.org/project/ctx). **2** are ✅ on the latest upstream release, **1** are ⚠️ on an older version.
-
 ## Improve this data
 
 Install metadata for ctx lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `ctx` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -94,4 +90,4 @@ Install metadata for ctx lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261127.yml` · 2026-11-27T07:42:31Z._
+_Snapshot: `data/card/261128.yml` · 2026-11-28T07:08:39Z._
